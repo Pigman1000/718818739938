@@ -3,4 +3,4 @@ layout: single
 author_profile: false
 ---
 
-[About](/about/)
+[About](about.html)
