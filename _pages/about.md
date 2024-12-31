@@ -10,7 +10,7 @@ header:
 last_modified_at: 2025-01-01T11:59:26-04:00
 toc: true
 ---
-[!image[myself](/assets/images/bio-photo.jpg)]
+
 # Hello and welcome
 ## To my corner of the internet!
 
