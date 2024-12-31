@@ -1,9 +1,22 @@
 ---
+layout: single
+permalink: /terms/
+title: "Terms of Service"
+excerpt: "**Terms of Service**  
 
+By using this website, you agree to the following:  
+
+- All content is for personal, non-commercial use unless otherwise stated.  
+- The source code is licensed under the MIT License; other content is protected by copyright laws.  
+- The website is provided "as is," with no guarantees of accuracy or liability for damages.  
+
+Continued use of this site constitutes acceptance of these terms."
+last_modified_at: 2025-01-01T11:59:26-04:00
+toc: false
 ---
 
 
-Terms and Conditions  
+# Terms and Conditions  
 
 **Introduction**  
 Welcome to Donal Muolhoi's website! By accessing or using this website, you agree to comply with and be bound by the following terms and conditions of use.  
