@@ -2,39 +2,27 @@
 layout: single
 permalink: /terms/
 title: "Terms of Service"
-excerpt: "**Terms of Service**  
-
-By using this website, you agree to the following:  
-
-- All content is for personal, non-commercial use unless otherwise stated.  
-- The source code is licensed under the MIT License; other content is protected by copyright laws.  
-- The website is provided "as is," with no guarantees of accuracy or liability for damages.  
-
-Continued use of this site constitutes acceptance of these terms."
+excerpt: "By using this website, you agree to the following: The source code is licensed under the MIT License; however, all other content is private and protected. The website is provided 'as is,' with no guarantees of accuracy or liability for damages."
 last_modified_at: 2025-01-01T11:59:26-04:00
 toc: false
 ---
-
 
 # Terms and Conditions  
 
 **Introduction**  
 Welcome to Donal Muolhoi's website! By accessing or using this website, you agree to comply with and be bound by the following terms and conditions of use.  
 
-**Intellectual Property**  
-The content provided on this website, including text, images, logos, and designs, is the intellectual property of Donal Muolhoi and is protected by applicable copyright and intellectual property laws.  
+**Source Code: MIT License**  
+This website is built using [Jekyll](https://jekyllrb.com/) and the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme, along with modifications and customizations made by Donal Muolhoi.  
+The source code, including these components, is licensed under the MIT License. This means you are free to use, modify, and distribute the code, provided you comply with the terms of the MIT License.  
+For more details, see the LICENSE file at: [GitHub Repository](https://github.com/Pigman1000/718818739938/blob/main/LICENSE).  
 
-**MIT License for Code**  
-The source code of this website is licensed under the MIT License. You may freely use, modify, and distribute the code, subject to the terms of the MIT License. For more details, see the LICENSE file at: https://github.com/Pigman1000/6277/blob/main/LICENSE  
-
-**Content Rights**  
-The content (such as text, images, logos, and other media) provided on this website is not covered by the MIT License and is the intellectual property of Donal Muolhoi. You may not use, copy, or distribute any content from this website without prior permission, except for personal, non-commercial use, as allowed by applicable law.  
-
-**Usage of Content**  
-You may not use, copy, or distribute any content from this website without prior permission, except for personal and non-commercial use, as allowed by applicable law.  
+**Website Content: Private and Protected**  
+The content provided on this website—including text, images, logos, designs, and other media—is the intellectual property of Donal Muolhoi and is **not** covered by the MIT License. This content is private and protected by applicable copyright and intellectual property laws.  
+You may not copy, modify, distribute, or use this content without prior written permission, except as permitted by law for personal and non-commercial purposes.  
 
 **Limitation of Liability**  
-Donal Muolhoi's website and its contents are provided "as is." We do not guarantee the accuracy or completeness of the information provided and will not be liable for any errors or omissions or for any losses, injuries, or damages that may occur from the use of this website.  
+Donal Muolhoi's website and its contents are provided "as is." We do not guarantee the accuracy or completeness of the information provided and will not be liable for any errors, omissions, or damages resulting from the use of this website.  
 
 **Changes to Terms**  
 We may update these terms and conditions at any time. Any changes will be posted on this page with an updated "Last Revised" date.  
