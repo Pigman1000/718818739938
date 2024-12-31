@@ -3,10 +3,10 @@ main:
   - title: "Home"
     url: https://pigman1000.github.io/718818739938/
   - title: "About"
-     url: https://mmistakes.github.io/minimal-mistakes/about/
-#   - title: "Posts"
-     url: /year-archive/
- #  - title: "Sample Collections"
-     url: /collection-archive/
- #  - title: "Sitemap"
-     url: /sitemap/
+    url: https://mmistakes.github.io/minimal-mistakes/about/
+#  - title: "Posts"
+#    url: /year-archive/
+#  - title: "Sample Collections"
+#    url: /collection-archive/
+#  - title: "Sitemap"
+#    url: /sitemap/
