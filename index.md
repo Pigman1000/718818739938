@@ -1,6 +1,4 @@
 ---
-layout: posts
+layout: single
 author_profile: false
 ---
-
-[About](about.html)
