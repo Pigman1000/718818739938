@@ -143,7 +143,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       url: thingpuisenhang
+      url: thingpuisenhang
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -155,7 +155,7 @@ footer:
       # url:
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
-       url: donalmuolhoi
+      url: donalmuolhoi
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
