@@ -3,8 +3,8 @@ permalink: /about/
 title: "About"
 excerpt: "This is my about page."
 layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
+  - url: 
+    image_path: 
 last_modified_at: 2025-01-01T11:59:26-04:00
 toc: true
 ---
