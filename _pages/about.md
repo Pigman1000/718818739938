@@ -5,7 +5,7 @@ excerpt: "This is my about page."
 tagline: "Time flies like a banana, but gravity prefers apples."
 header:
   overlay_image: /assets/images/bio-photo.jpg
-  caption: "Photo credit: [**D Muolhoi**](https://github.io/pigman1000)"
+  caption: "Photo credit: [**D Muolhoi**](https://github.io/pigman1000/718818739938)"
 last_modified_at: 2025-01-01T11:59:26-04:00
 toc: true
 ---
