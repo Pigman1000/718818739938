@@ -4,9 +4,9 @@ main:
     url: https://pigman1000.github.io/718818739938/
   - title: "About"
     url: https://pigman1000.github.io/718818739938/about/
-#  - title: "Posts"
-#    url: /year-archive/
-#  - title: "Sample Collections"
-#    url: /collection-archive/
+  # - title: "Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
   - title: "Terms and Conditions"
-#    url: /terms/
+    url: /terms/
