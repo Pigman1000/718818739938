@@ -2,9 +2,10 @@
 permalink: /about/
 title: "About"
 excerpt: "This is my about page."
-layouts_gallery:
-  - url: 
-    image_path: 
+tagline: "Time flies like a banana, but gravity prefers apples."
+header:
+  overlay_image: /assets/images/bio-photo.jpg
+  caption: "Photo credit: [**D Muolhoi**](https://github.io/pigman1000)"
 last_modified_at: 2025-01-01T11:59:26-04:00
 toc: true
 ---
