@@ -4,7 +4,7 @@ permalink: /terms/
 title: "Terms of Service"
 excerpt: "By using this website, you agree to the following: The source code is licensed under the MIT License; however, all other content is private and protected. The website is provided 'as is,' with no guarantees of accuracy or liability for damages."
 last_modified_at: 2025-01-01T11:59:26-04:00
-toc: false
+toc: true
 ---
 
 # Terms and Conditions  
