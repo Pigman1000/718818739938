@@ -2,10 +2,10 @@
 layout: single
 author_profile: false
 ---
+# Hello World
 
 
-# Hello and welcome
-## To my corner of the internet!
+## Welcome To my corner of the internet!
 
 This Website **(a work in progress — like myself)** is my very own personal space to explore, reflect, and share my thoughts on life, learning, and the world around me. I created this as a place to record my experiences, my ideas, and my ongoing growth— one post at a time.
 
