@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 permalink: /about/
 title: "About"
 excerpt: "This is my about page."
