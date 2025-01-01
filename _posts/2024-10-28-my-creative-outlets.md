@@ -20,8 +20,11 @@ tags:
 
 # Appreciation for digital artists
 
-This will be a bit cringe cuz not everybody can relate but then again , it's not my fault if you think this is childish. 
-Growing up, comic books were my entire world. They were more than just entertainment—they were my escape, my inspiration, and my creative spark. For the longest time, they were all I had, at least until my father bought me a Walkman when I got older. I remember that day , a small bamboo hut in the middle of town on top of a hill , it suppose it must be one of my happier days although that sounds wrong to say cuz looking back life was perfect despite the hardships. I look at the state my mother is in today and i most certainly would do anything to give her back that health and happiness. While everyone was busy playing *Virtua Cop* on Windows 98, I spent my days stealing comic books from the local store and sketching the characters and worlds I admired so much.
+This might sound a bit cringe because not everyone can relate, but growing up, comic books were my entire world. They weren’t just entertainment—they were my escape, my inspiration, and the spark that fueled my creativity. For the longest time, they were all I had, at least until my father bought me a Walkman when I got older.
+
+I still remember that day vividly—a small bamboo hut perched on a hill in the middle of town. It’s a memory that stands out as one of my happier days, though it feels strange to say that now. Looking back, life felt perfect in its own way, despite the hardships. I think about my mother today and the state she’s in, and I’d give anything to bring back the health and happiness she once had.
+
+While others my age were busy playing Virtua Cop on Windows 98 or watching TV shows, I spent my days sneaking comic books from the local store and sketching the characters and worlds that captivated me.
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/comic-header.jpg" alt="Beloved Riverdale Characters">
