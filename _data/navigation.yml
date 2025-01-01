@@ -7,8 +7,8 @@ main:
   - title: "Terms and Conditions"
     url: https://pigman1000.github.io/718818739938/terms/
   # Uncomment to add posts
-  # - title: "Posts"
-  #   url: /year-archive/
+   - title: "Posts"
+  #   url: https://pigman1000.github.io/718818739938/posts/
   # Uncomment to add collections
   # - title: "Sample Collections"
   #   url: /collection-archive/
