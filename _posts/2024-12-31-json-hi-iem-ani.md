@@ -22,11 +22,13 @@ JSON hin a hnuoia structure hi aneia.
 **Tekhina:1**
 
 ```Json
+
 {
   "name": "Eunicky Lungtau",
   "age": 33,
   "active": true
 }
+
 ```
 
 Hi structure hi , "key  le value " pair an na, `name` hi key ana a value chu `Eunicky Lungtau` ti hi anih.
@@ -50,6 +52,7 @@ Json structure hi a flexible hle ,  google sheets le excel ahai first row hi hea
 **Tekhina:2**
 
 ```Json
+
 {
   "name": "Eunicky Lungtau",
   "age": 33,
@@ -71,6 +74,7 @@ Json structure hi a flexible hle ,  google sheets le excel ahai first row hi hea
     "isRemote": false
   }
 }
+
 ```
 
 Tekhina in a chunga structure ahin `name` hi key ana, Eunicky Lungtau hi value anih ka hung ti a khan , value ahin key le value a um sa theia.
@@ -88,6 +92,7 @@ Curly {curly} in a khar khum po hi object an na , object sunga um hai hi key val
 **Tekhina:3**
 
 ```Json
+
 {
   "people": [
     {
