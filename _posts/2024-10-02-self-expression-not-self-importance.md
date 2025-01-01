@@ -11,9 +11,6 @@ categories: "
 tags: 
   - "opinion-pieces"
 ---
-
-![](https://dmuolhoi.wordpress.com/wp-content/uploads/2024/10/img-20241002-wa00102180620816199824781.jpg?w=1024)
-
 I can't help but feel that society has a negative perception of self-expression, to the point where it makes me question my own identity — _**Who do you think you are?**_ — as if I don't deserve to scribble down my thoughts, as if my inner self isn't real.
 
 I understand these thoughts exist because I chose to share what's on my mind, and though nobody has actually verbalized these questions, it would be a lie to pretend they aren’t real. I see it in the negativity, in the subliminal responses, in their looks , their status updates, in their own self-expressions.
