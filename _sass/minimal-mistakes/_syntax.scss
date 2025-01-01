@@ -30,6 +30,14 @@ figure.highlight {
   }
 }
 
+.highlight {
+  margin: 0;
+  padding: 1em;
+  font-family: $monospace;
+  font-size: $type-size-7;
+  line-height: 1.8;
+}
+
 .highlight table {
   margin-bottom: 0;
   font-size: 1em;
