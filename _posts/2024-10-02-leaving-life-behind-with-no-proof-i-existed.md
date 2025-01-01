@@ -7,20 +7,23 @@ tags:
   - "self-reflections"
 ---
 
-![](https://dmuolhoi.wordpress.com/wp-content/uploads/2024/10/img-20241002-wa00423317296642814293082.jpg?w=1024)
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/leaving-life-behind.jpg" alt="Watching time">
+  <figcaption>[Photo by Oladimeji Ajegbile from Pexels](https://www.pexels.com/photo/round-silver-colored-wall-clock-2853664/)</figcaption>
+</figure> 
 
-I tell myself I've come to terms with the fact that I have nothing to offer humanity, not myself, my family , my friends or the community that i hold dear but perhaps I still hold onto the hope that I might contribute through these reflections, though I don’t see how, because I believe everybody has these thoughts, even if they don’t verbalize them.
+I often tell myself that I’ve come to terms with the fact that I have little to offer humanity—not much for my family, friends, or the community I care about. But there’s still a part of me that clings to the hope that, through these reflections, I might offer something meaningful. Perhaps that’s wishful thinking, but I suspect many of us share these quiet thoughts, even if we don’t express them.
 
-I realize that education and connection are important to build on the reality we create, and I'm stuck somewhere in between. I'm not learned enough to say anything that makes sense to contribute, but I know myself just enough to have these thoughts.
+I’ve come to understand that education and connection are integral to shaping the reality we create. Yet, I find myself caught in a space between knowing I’m not learned enough to contribute in a conventional sense and understanding myself well enough to recognize the thoughts I carry.
 
-I don’t know how I’ll be labeled when I’m gone. Maybe they’ll say I was someone who struggled with the fact that I exist and couldn’t come to terms with reality. But if that’s true, why am I even exposing myself to be criticized, in the hope that someone might come along and read these words?
+I sometimes wonder how I’ll be remembered when I’m gone. Maybe they’ll say I was someone who struggled with the very essence of existence, someone who couldn’t fully reconcile with reality. But if that’s true, why would I expose myself to the possibility of judgment, hoping that someone might, even for a moment, find meaning in these words?
 
-Maybe I’ll just fade into oblivion, but either way, I’m not bound by time.
+Perhaps, like many, I’ll simply fade into the background, but in the grand scheme of things, time is a construct we aren’t bound by.
 
-My mother is dying, but then, who isn’t? Whose mother isn’t? We live with the illusion of permanence, and we get lost chasing our dreams, living our lives, and we lose ourselves thinking death is still so far away that we don’t have to think about it now. But it creeps up on us and catches us unprepared.
+My mother is nearing the end of her journey, but then again, who isn’t? The truth is, death is something we all must face. We live our lives, chasing dreams and creating the illusion of permanence, forgetting that death will come for all of us. We tend to think it’s far away, only for it to catch us off guard when we least expect it.
 
-So, as hypocritical and delusional as it may seem, I’m thankful that cancer has reminded us of this truth—that life is not permanent.
+As difficult as it is to accept, I’m grateful that cancer has reminded us of this truth—that life is fleeting, and nothing is permanent.
 
-I'm working on a project, and I've dedicated an hour a day to it, though I struggle to follow my own schedule and constantly forget to water the plants a habit i recently developed. Hopefully, I don’t abandon it like I always do.
+I’m working on a project now, dedicating an hour a day to it. I struggle to stay consistent, often forgetting the small habits I’ve recently tried to cultivate, like watering the plants. I hope I don’t abandon this effort like I have with other things in the past.
 
-Maybe then I’ll leave a little trace of myself that's worth remembering, even if it’s only for a short while.
+Maybe, in some small way, this project will leave a trace of me behind—something worth remembering, even if it’s only for a short while.

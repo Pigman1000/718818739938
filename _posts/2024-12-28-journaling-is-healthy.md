@@ -7,6 +7,10 @@ categories:
 tags: 
   - "explorations"
 ---
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/journaling-on-mental-health.jpg" alt="Journaling">
+  <figcaption></figcaption>
+</figure> 
 
 ## Journaling Is Healthy
 
