@@ -1,5 +1,5 @@
 ---
 layout: posts
-permalink: /terms/
+permalink: /posts/
 title: "Posts"
 ---
