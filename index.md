@@ -4,8 +4,8 @@ author_profile: false
 ---
 # Kumthar Chibai
 
-**Notice!** Website is under construction `{: .notice--info}` class.
-{: .notice--info}
+**Notice!** Website is under construction.
+{: .notice--warning}
 
 Welcome to my corner of the internet! This website is still under construction, so please bear with me. Some features, like breadcrumbs, may not be fully functional just yet.  
 
