@@ -3,10 +3,12 @@ layout: single
 author_profile: false
 ---
 
-## Kumthar Chibai
+## Kumthar Chibai  
 
-Welcome to my corner of the internet! This website is still under construction, so please bear with me. Some features, like breadcrumbs, may not be fully functional just yet. 
+Welcome to my corner of the internet! This website is still under construction, so please bear with me. Some features, like breadcrumbs, may not be fully functional just yet.  
 
-However, the main menu and search functionality are fully operational. Feel free to explore the available content or use the search bar to find what you're looking for.
+The main menu and search functionality are operational, so feel free to explore the site. However, please note that the Archives page and Projects page are not ready yet and will be coming soon.  
 
-Thanks for your patience, and I appreciate your understanding as I work on improving the site. Stay tuned for updates!
+For updates and progress on the website, check out the [Site Updates](#) page.  
+
+Thanks for your patience, and I appreciate your understanding as I work on improving the site. Stay tuned for more!
