@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Barely Holding On"
 date: "2024-10-11"
 categories: 

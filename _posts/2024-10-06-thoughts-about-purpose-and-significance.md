@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Thoughts About Purpose And Significance"
 date: "2024-10-06"
 categories: 

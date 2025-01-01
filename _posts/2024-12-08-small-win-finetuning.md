@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Small Win - Finetuning"
 date: "2024-12-08"
 categories: 

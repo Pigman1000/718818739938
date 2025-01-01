@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Leaving Life Behind With No Proof I Existed"
 date: "2024-10-02"
 categories: 

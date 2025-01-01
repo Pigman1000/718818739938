@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Self - Expression - Not Self - Importance"
 date: "2024-10-02"
 categories: 

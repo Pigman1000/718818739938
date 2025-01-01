@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hringnun Pawtsei Thei Ta Inla"
 date: "2024-10-30"
 categories: 

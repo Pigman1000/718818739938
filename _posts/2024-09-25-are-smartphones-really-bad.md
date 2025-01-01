@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Are Smartphones Really Bad ?"
 date: "2024-09-25"
 categories: 

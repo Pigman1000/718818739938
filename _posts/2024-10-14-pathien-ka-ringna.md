@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Pathien Ka Ringna"
 date: "2024-10-14"
 categories: 

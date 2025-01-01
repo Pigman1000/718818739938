@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The Harmony In Our Explorations"
 date: "2024-09-27"
 categories: 

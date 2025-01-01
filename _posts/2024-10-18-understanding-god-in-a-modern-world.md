@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Understanding God In A Modern World"
 date: "2024-10-18"
 categories: 

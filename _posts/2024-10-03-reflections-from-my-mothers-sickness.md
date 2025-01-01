@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Reflections From My Mother's Sickness"
 date: "2024-10-03"
 categories: 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "My Creative Outlets"
 date: "2024-10-28"
 categories: 

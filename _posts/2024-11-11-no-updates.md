@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "No Updates"
 date: "2024-11-11"
 categories: 

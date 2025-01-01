@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Letter to Myself In Times Of Doubt"
 date: "2024-08-13"
 categories: 

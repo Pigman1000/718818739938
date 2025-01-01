@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Realizing Our Collective Identities As Tribals Of The Northeast"
 date: "2024-10-03"
 categories: 

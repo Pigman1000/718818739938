@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Reflections From Thoughts About Our Collective Identities"
 date: "2024-10-20"
 categories: 

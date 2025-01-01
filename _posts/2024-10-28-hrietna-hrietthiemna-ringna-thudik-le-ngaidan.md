@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Hrietna , Hrietthiemna , Ringna , Thudik le Ngaidan"
 date: "2024-10-28"
 categories: 

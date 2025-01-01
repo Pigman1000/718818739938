@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Growth Through Contradictions"
 date: "2024-10-20"
 categories: 

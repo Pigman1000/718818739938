@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Electric Current Zie - Basic Logic"
 date: "2024-10-20"
 categories: 

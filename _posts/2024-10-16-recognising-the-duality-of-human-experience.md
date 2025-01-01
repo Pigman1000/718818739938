@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Recognising The Duality Of Human Experience"
 date: "2024-10-16"
 categories: 

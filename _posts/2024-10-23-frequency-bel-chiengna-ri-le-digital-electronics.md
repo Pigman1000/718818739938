@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Frequency Bel Chiengna : Ri le Digital Electronics"
 date: "2024-10-23"
 categories: 

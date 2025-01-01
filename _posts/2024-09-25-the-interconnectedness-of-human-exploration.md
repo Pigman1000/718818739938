@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The Interconnectedness Of Human Exploration"
 date: "2024-09-25"
 categories: 

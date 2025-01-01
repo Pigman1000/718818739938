@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The Misconception Of German Shepherd Color Coats"
 date: "2024-09-27"
 categories: 

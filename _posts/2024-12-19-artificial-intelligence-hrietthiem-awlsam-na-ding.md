@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Artificial Intelligence: Hrietthiem Awlsam Na Ding"
 date: "2024-12-19"
 categories: 

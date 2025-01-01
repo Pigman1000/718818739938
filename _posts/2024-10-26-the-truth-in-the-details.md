@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The Truth In The Details"
 date: "2024-10-26"
 categories: 
