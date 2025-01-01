@@ -6,7 +6,10 @@ main:
     url: https://pigman1000.github.io/9101-292-003/about/
   - title: "Posts"
     url: https://pigman1000.github.io/9101-292-003/posts/
+  - title: "Projects"
+    url: https://pigman1000.github.io/9101-292-003/projects/
   - title: "Archives"
-    url: /categories/
+    url: https://pigman1000.github.io/9101-292-003/archives/
   - title: "Terms and Conditions"
     url: https://pigman1000.github.io/9101-292-003/terms/
+    
