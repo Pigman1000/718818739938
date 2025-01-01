@@ -1,0 +1,93 @@
+---
+layout: index
+---
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
+  {% include page__hero_video.html %}
+{% endif %}
+
+{% assign breadcrumbs_enabled = site.breadcrumbs %}
+{% if page.breadcrumbs != null %}
+  {% assign breadcrumbs_enabled = page.breadcrumbs %}
+{% endif %}
+{% if page.url != "/" and breadcrumbs_enabled %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork"{% if page.locale %} lang="{{ page.locale }}"{% endif %}>
+    {% if page.title %}<meta itemprop="headline" content="{{ page.title | replace: '|', '&#124;' | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">{% endif %}
+    {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">{% endif %}
+
+    <div class="page__inner-wrap">
+      {% unless page.header.overlay_color or page.header.overlay_image %}
+        <header>
+          {% if page.title -%}
+          <h1 id="page-title" class="page__title" itemprop="headline">
+            <a href="#" id="random-title" itemprop="url">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
+          </h1>
+          {%- endif %}
+          {% include page__meta.html %}
+        </header>
+      {% endunless %}
+
+      <section class="page__content" itemprop="text">
+        {{ content }}
+        {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+      </section>
+
+      <footer class="page__meta">
+        {% include page__taxonomy.html %}
+        {% include page__date.html %}
+      </footer>
+    </div>
+  </article>
+</div>
+
+<script>
+  document.getElementById('random-title').addEventListener('click', function (event) {
+    event.preventDefault();
+
+    fetch('/titles.txt')
+      .then(response => {
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+        return response.text();
+      })
+      .then(data => {
+        const titles = data.split('\n').filter(title => title.trim() !== '');
+        const titleCounts = {};
+        const selectedTitles = [];
+
+        function getRandomTitle() {
+          // Filter out titles that have been selected 3 times
+          const availableTitles = titles.filter(title => (titleCounts[title] || 0) < 3);
+          
+          if (availableTitles.length === 0) {
+            alert('All titles have been selected 3 times!');
+            return null;
+          }
+
+          const randomTitle = availableTitles[Math.floor(Math.random() * availableTitles.length)];
+          titleCounts[randomTitle] = (titleCounts[randomTitle] || 0) + 1;
+
+          return randomTitle;
+        }
+
+        const randomTitle = getRandomTitle();
+        if (randomTitle) {
+          document.getElementById('random-title').textContent = randomTitle;
+        }
+      })
+      .catch(error => console.error('Error fetching titles:', error));
+  });
+</script>
