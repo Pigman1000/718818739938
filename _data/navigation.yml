@@ -8,7 +8,7 @@ main:
     url: https://pigman1000.github.io/718818739938/terms/
   # Uncomment to add posts
    - title: "Posts"
-  #   url: https://pigman1000.github.io/718818739938/posts/
+     url: https://pigman1000.github.io/718818739938/posts/
   # Uncomment to add collections
-  # - title: "Sample Collections"
+   - title: "Archives"
   #   url: /collection-archive/
