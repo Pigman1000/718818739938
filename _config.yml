@@ -113,30 +113,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "D Muolhoi"
-  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a musician."
-  location         : "Somewhere in India"
-  email            :
-  links:
+name             : "D Muolhoi"
+avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+bio              : "I am a musician."
+location         : "Somewhere in India"
+email            :
+links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "donalmuolhoi@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/thingpuisenhang"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
+    #   url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/pigman1000"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
       
 # Site Footer
 footer:
@@ -144,21 +144,21 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/thingpuisenhang"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/donalmuolhoi"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
+    #   url: "https://facebook.com/donalmuolhoi"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/pigman1000"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      url: ""
+    # - label: "GitLab"
+    #   icon: "fab fa-fw fa-gitlab"
+    #   url: ""
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
       url: "https://youtube.com/donalmuolhoi"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: ""
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: ""
       
 # Reading Files
 include:
