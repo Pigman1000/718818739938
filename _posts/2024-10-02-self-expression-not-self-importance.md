@@ -1,15 +1,15 @@
----
 title: "Self-Expression, Not Self-Importance"
 date: "2024-10-02"
-excerpt:"I can't help but feel that society has a negative perception of self-expression, to the point where it makes me question my own identity — _**Who do you think you are?**_ — as if I don't deserve to scribble down my thoughts, as if my inner self isn't real."
+excerpt: "I can't help but feel that society has a negative perception of self-expression, making me question my own identity — as if I don't deserve to scribble down my thoughts, as if my inner self isn't real."
 categories:
   - "reflections"
 tags: 
   - "opinion-pieces"
 ---
+
 <figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jadav-payeng.jpeg" alt="">
-  <figcaption>Jadav Payeng : The man who planted trees.</figcaption>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jadav-payeng.jpeg" alt="Jadav Payeng: The man who planted trees">
+  <figcaption>Jadav Payeng: The man who planted trees.</figcaption>
 </figure> 
 
 I can't help but feel that society has a negative perception of self-expression, to the point where it makes me question my own identity — _**Who do you think you are?**_ — as if I don't deserve to scribble down my thoughts, as if my inner self isn't real.
