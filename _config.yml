@@ -289,17 +289,17 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
- https://github.com/jekyll/jekyll-archives
- jekyll-archives:
-   enabled:
-     - categories
-     - tags
-   layouts:
-     category: archive-taxonomy
-     tag: archive-taxonomy
-   permalinks:
-     category: /categories/:name/
-     tag: /tags/:name/
+# https://github.com/jekyll/jekyll-archives
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
 
 
 # HTML Compression
@@ -311,31 +311,15 @@ compress_html:
 
 
 # Defaults
-# Defaults
 defaults:
+  # _posts
   - scope:
       path: ""
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: true
-      comments: false
+      comments: # true
       share: true
-      related: false
-  - scope:
-      path: ""
-      type: projects
-    values:
-      layout: single
-      author_profile: false
-      read_time: true
-      comments: false
-      share: true
-      related: false
-      
-# Collections
-collections:
-  projects:
-    output: true
-    permalink: /:collection/:path/
+      related: true
