@@ -2,22 +2,26 @@
 title: "Self-Expression, Not Self-Importance"
 date: "2024-10-02"
 excerpt: "I can't help but feel that society has a negative perception of self-expression, making me question my own identity — as if I don't deserve to scribble down my thoughts, as if my inner self isn't real."
+tagline: "Authenticity begins with self-expression."
+header:
+  overlay_image: /assets/images/pexels-pixabay-33779.jpg
+  caption: "Photo credit: [**Pixabay from Pexels**](https://www.pexels.com/photo/person-holding-microphone-33779/)"
 categories:
   - "reflections"
 tags: 
   - "opinion-pieces"
 ---
 
-<figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/black-alien-project.jpeg" alt="Black Alien Project.">
-  <figcaption></figcaption>
-</figure> 
-
 I’ve been thinking about the way society sometimes reacts to self-expression. It’s as though putting your thoughts out there invites the question — _**Who do you think you are?**_ — a question I often find myself asking, too. It’s strange how something as personal as sharing your mind can feel so exposed, so vulnerable, like you’re putting your sense of self on trial.
 
 And yet, isn’t that the point of self-expression? To put a part of yourself into the world and let it exist, even if it’s imperfect, even if it’s misunderstood? Still, there’s always this subtle undercurrent, this unspoken skepticism in the air — in glances, in vague comments, in the echoes of their own expressions.
 
 This isn't about criticizing society, as I'm part of it too, and I recognize that not everyone sees things the same way. However, to deny that self-expression can attract negativity is simply ignoring reality. A person with face tattoos is often viewed differently than someone in a suit and tie, as though one is lesser than the other, even if both play contradictory roles.
+
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/black-alien-project.jpeg" alt="Black Alien Project.">
+  <figcaption>The Black Alien Project.</figcaption>
+</figure> 
 
 This brings to mind Friedrich Nietzsche's thoughts on how morality is often shaped by aesthetic standards. The problem with accepting societal norms for what is 'appropriate'—just because they’re deemed acceptable—is that they stem from conformity, negativity, and an appeal to authority. It’s a self-imposed limitation, almost as if simply being human isn’t enough.
 
