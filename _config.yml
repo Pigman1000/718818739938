@@ -31,7 +31,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
-copyright                : "© 2025 Donal Muolhoi. All Rights Reserved." # "copyright" name, defaults to site.title
+copyright                : "Donal Muolhoi. All Rights Reserved." # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -90,9 +90,9 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : thingpuisenhang
+  username               : https://x.com/thingpuisenhang
 facebook:
-  username               : donalmuolhoi
+  username               : https://facebook.com/donalmuolhoi
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -143,19 +143,19 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: thingpuisenhang
+      url: "https://x.com/thingpuisenhang"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+       url: "https://facebook.com/donalmuolhoi"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: pigman1000
+       url: "https://github.com/pigman1000"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url:
+       url:
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
-      url: donalmuolhoi
+      url: "https://youtube.com/donalmuolhoi"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
