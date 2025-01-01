@@ -1,6 +1,7 @@
 ---
 title: "Thoughts About Purpose And Significance"
 date: "2024-10-06"
+excerpt: "A few weeks back, I found myself grappling with thoughts of how insignificant and small I am, and i felt very overwhelmed with negativity. I’m not sure what triggered it—maybe my ongoing struggle for financial independence or my discomfort in my own body. Whatever the cause, it led me to reflect on my legacy. I realized I hadn’t been paying enough attention to it, but deep down, I want to be remembered—not just as someone who lived, but as someone significant. I think we all share this desire."
 categories: 
   - "reflections"
 tags: 

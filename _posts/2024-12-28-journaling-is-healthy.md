@@ -1,13 +1,14 @@
 ---
 title: "Journaling's effects on my mental health"
 date: "2024-12-19"
+excerpt: "For much of my life, I’ve struggled with doubt and uncertainty, often feeling insignificant and unsure of my place. However, keeping a journal has truly helped improve my mental well-being. While feelings of insignificance may always be a part of my journey, they serve as a reminder to keep living, and they give me the courage to express myself without hesitation. After all, what I write, no matter how distant from the truth it may seem or how deluded they might make me seem, Journaling offers me the opportunity to look back and reflect."
 categories: 
   - "technology"
 tags: 
   - "explorations"
 ---
 
-# Journaling Is Healthy
+## Journaling Is Healthy
 
 For much of my life, I’ve struggled with doubt and uncertainty, often feeling insignificant and unsure of my place. However, keeping a journal has truly helped improve my mental well-being. While feelings of insignificance may always be a part of my journey, they serve as a reminder to keep living, and they give me the courage to express myself without hesitation. After all, what I write, no matter how distant from the truth it may seem or how deluded they might make me seem, Journaling offers me the opportunity to look back and reflect.
 

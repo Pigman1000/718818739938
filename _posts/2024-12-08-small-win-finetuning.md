@@ -1,18 +1,17 @@
 ---
 title: "Small Win - Finetuning"
 date: "2024-12-08"
+excerpt: "Over the past few days (from December 6 to December 8, 2024), I’ve been immersing myself in learning more about AI and working on building my dataset. Additionally, I’ve been exploring the process of fine-tuning a language model, and I’m happy to share that I’ve made some progress. While I realize this may not be groundbreaking to those with more experience in AI, I’m genuinely excited about the steps I’ve taken so far. Given that I’m still a beginner, every small success feels like a meaningful milestone."
 categories: 
   - "technology"
 tags: 
   - "explorations"
 ---
+Over the past few days (from December 6 to December 8, 2024), I’ve been immersing myself in learning more about AI and working on building my dataset. Additionally, I’ve been exploring the process of fine-tuning a language model, and I’m happy to share that I’ve made some progress. While I realize this may not be groundbreaking to those with more experience in AI, I’m genuinely excited about the steps I’ve taken so far. Given that I’m still a beginner, every small success feels like a meaningful milestone.
 
-* * *
+Although the model wasn’t able to output 100% accurate data and did exhibit some hallucinations, I recognize that this is likely due to the small size of the dataset I created myself. It seems that it might just be lacking in certain areas, and I believe updating the dataset will help improve the model’s performance.
 
-Ive been learning about AI and still building my dataset and ive also been trying to learn how to fine tune an llm for the past couple of days (Dec-6 -2024 to Dec-8-2024) and im happy to report i've been somewhat successful , i understand this is probably nothing exciting to alot of people and nothing remarkable for those who are into AI and know all the ins and outs but  i'm pretty excited and i feel this is an achievement cuz i know the limits of my knowledge and im still just a beginner.
+Looking ahead, I’m considering fine-tuning the model using "our" conversation history, as this could help it learn more about me and become more effective. While I’m not entirely sure if this approach is feasible for what I envision, it seems like an interesting idea, and I’m eager to explore it further.
 
-The model itself couldn't ouput 100% factual data and it hallucinated , but i realize its because the dataset was very small , one that i created myself and i assume its just missing data and if so its just a matter of updating the dataset.
+I hope to write again soon.
 
-I'm hoping to fine tune the model again on "our" conversation history soon , that way it could really learn about me and be more effective but im not sure if this is feasible for what i want it to do cuz i haven't really explored the idea yet but it sounds okay to me.
-
-Hope to write again soon.

@@ -1,13 +1,14 @@
 ---
 title: "Artificial Intelligence: Hrietthiem Awlsam Na Ding"
 date: "2024-12-19"
+excerpt: "Khani (July thla lai vel khan) ka ruolpa le kanin biekna ah AI thu kan hrila , "AI hi google a thil i search ang tho anih, a umsa a pek che ati a " hi thil hi andik naw taluo a , anachu hma tawn a hang ti fok kha mawi kati naw leiin hma tieng hunah la hril katih katia.
+
+AI hi a zieka umsa a reply nawh ti hin bul tran phot lang."
 categories: 
   - "technology"
 tags: 
   - "explorations"
 ---
-
-* * *
 
 Khani (July thla lai vel khan) ka ruolpa le kanin biekna ah AI thu kan hrila , "AI hi google a thil i search ang tho anih, a umsa a pek che ati a " hi thil hi andik naw taluo a , anachu hma tawn a hang ti fok kha mawi kati naw leiin hma tieng hunah la hril katih katia.
 

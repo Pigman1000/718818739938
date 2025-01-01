@@ -1,6 +1,7 @@
 ---
 title: "The Harmony In Our Explorations"
 date: "2024-09-27"
+excerpt: "There’s a common misconception that science disproves religion, and the idea that science is somehow more logical in explaining the nature of our existence couldn’t be further from the truth. The claim that the universe came into being with the Big Bang is as unfulfilled as the religious explanation that God created everything."
 categories: 
   - "social-commentary"
 tags: 

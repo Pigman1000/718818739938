@@ -1,7 +1,12 @@
 ---
 title: "Self - Expression - Not Self - Importance"
 date: "2024-10-02"
-categories: 
+excerpt: "I can't help but feel that society has a negative perception of self-expression, to the point where it makes me question my own identity — _**Who do you think you are?**_ — as if I don't deserve to scribble down my thoughts, as if my inner self isn't real."
+tagline: "Jadav Payeng : The man who planted trees"
+header:
+  overlay_image: /assets/images/jadav-payeng.jpeg
+  caption: "Photo credit: [**Unknown**](https://github.io/pigman1000/718818739938)"
+categories: "
   - "reflections"
 tags: 
   - "opinion-pieces"

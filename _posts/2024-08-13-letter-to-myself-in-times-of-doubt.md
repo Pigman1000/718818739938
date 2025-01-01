@@ -1,6 +1,8 @@
 ---
 title: "Letter to Myself In Times Of Doubt"
 date: "2024-08-13"
+excerpt: "Dear Donald,  
+I hope this letter finds you well, wherever you are in your journey. I wanted to take a moment to write to you, to remind you of a few things that you might need to hear right now."
 categories: 
   - "note-to-self"
   - "letters"

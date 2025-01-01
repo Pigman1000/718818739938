@@ -1,13 +1,14 @@
 ---
 title: "Json hi iem ani?"
 date: "2024-12-31"
+excerpt: "JSON hi data storage format chi khat ana , data format lai chun ama hi hmang rawn tak ana, 
+a hming lam tluon chun **Javascript Object Notation** anih. Kum 2000 lai kha software engineer **Douglas Crockford** siem suok ana. Hi data format hi tulai a ding chun data exchange trulna reng reng anchun an hmang tak anih."
 categories: 
   - "hmar"
   - "technology"
 tags: 
   - "informational"
 ---
-
 ### Thuhmahruoi
 JSON hi data storage format chi khat ana , data format lai chun ama hi hmang rawn tak ana, 
 a hming lam tluon chun **Javascript Object Notation** anih. Kum 2000 lai kha software engineer **Douglas Crockford** siem suok ana. Hi data format hi tulai a ding chun data exchange trulna reng reng anchun an hmang tak anih. 
