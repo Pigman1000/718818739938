@@ -32,7 +32,7 @@ layout: default
         <header>
           {% if page.title -%}
           <h1 id="page-title" class="page__title" itemprop="headline">
-            <a href="#" id="random-title" itemprop="url">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
+            <span id="random-title">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</span>
           </h1>
           {%- endif %}
           {% include page__meta.html %}
@@ -54,7 +54,7 @@ layout: default
 
 <script>
   document.getElementById('random-title').addEventListener('click', function (event) {
-    event.preventDefault();
+    event.preventDefault(); // Prevent page reload
 
     fetch('/titles.txt')
       .then(response => {
@@ -66,7 +66,6 @@ layout: default
       .then(data => {
         const titles = data.split('\n').filter(title => title.trim() !== '');
         const titleCounts = {};
-        const selectedTitles = [];
 
         function getRandomTitle() {
           // Filter out titles that have been selected 3 times
