@@ -310,8 +310,8 @@ compress_html:
 
 
 # Defaults
+# Defaults
 defaults:
-   _posts
   - scope:
       path: ""
       type: posts
@@ -322,12 +322,9 @@ defaults:
       comments: false
       share: true
       related: false
-      
-defaults:
-   _projects
   - scope:
       path: ""
-      type: posts
+      type: projects
     values:
       layout: single
       author_profile: false
