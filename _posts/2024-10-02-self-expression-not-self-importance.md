@@ -1,6 +1,5 @@
 title: "Self-Expression, Not Self-Importance"
 date: "2024-10-02"
-excerpt: "I can't help but feel that society has a negative perception of self-expression, making me question my identity — _**Who do you think you are?**_ — as if I don't deserve to share my thoughts, as if my inner self isn’t real."
 tagline: "Jadav Payeng: The man who planted trees"
 header:
   overlay_image: /assets/images/jadav-payeng.jpeg
@@ -10,7 +9,6 @@ categories:
 tags: 
   - "opinion-pieces"
 ---
-
 I can't help but feel that society has a negative perception of self-expression, to the point where it makes me question my own identity — _**Who do you think you are?**_ — as if I don't deserve to scribble down my thoughts, as if my inner self isn't real.
 
 I understand these thoughts exist because I chose to share what's on my mind. Though nobody has actually verbalized these questions, it would be a lie to pretend they aren’t real. I see it in the negativity, in the subliminal responses, in their looks, their status updates, and in their own self-expressions.
