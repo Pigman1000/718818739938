@@ -29,3 +29,27 @@ We may update these terms and conditions at any time. Any changes will be posted
 
 **Governing Law**  
 These terms and conditions are governed by and construed in accordance with the laws of the jurisdiction where Donal Muolhoi resides. Any disputes arising from these terms will be resolved within the courts of that jurisdiction.
+
+# Privacy Policy
+
+**Effective Date:** January 1, 2025  
+
+Welcome to *The Non-Conformist's Notebook*. This static website serves as an online digital journal belonging to its sole owner, **Donal Muolhoi**.  
+
+## Data Collection  
+This website does not collect, store, or process any personal data or user information. There are no trackers, cookies, analytics, or forms embedded in the site. As a static site, it is purely informational and does not interact with visitors beyond displaying content.  
+
+## Ownership  
+All content on *The Non-Conformist's Notebook* is created and owned by **Donal Muolhoi**. Unauthorized use or reproduction of any part of this site’s content is prohibited without prior permission.  
+
+## Third-Party Links  
+This site may contain links to external websites or resources. Please note that these external websites may have their own privacy policies, and *The Non-Conformist's Notebook* is not responsible for their practices.  
+
+## Changes to the Privacy Policy  
+As this is a simple static site with no data collection, changes to this privacy policy are unlikely. However, if any updates are made, they will be reflected on this page.  
+
+## Contact  
+For any questions or concerns about this privacy policy, please contact the owner at:  
+**Email:** donalmuolhoi@gmail.com  
+
+Thank you for visiting *The Non-Conformist's Notebook*.
