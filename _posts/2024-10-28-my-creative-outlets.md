@@ -5,7 +5,7 @@ excerpt: "This will be a bit cringe cuz not everybody can relate but then again 
 Growing up, comic books were my entire world. They were more than just entertainment—they were my escape, my inspiration, and my creative spark. For the longest time, they were all I had, at least until my father bought me a Walkman when I got older. While everyone was busy playing *Virtua Cop* on Windows 98, I spent my days stealing comic books from the local store and sketching the characters and worlds I admired so much."
 tagline: "The actual main character of Marvel Universe."
 header:
-  overlay_image: /assets/images/spiderman.jpg
+  overlay_image: /assets/images/spiderman.jpeg
   caption: "Photo credit: [**No Credits**](https://pigman1000.github.io/9101-292-003/art/general/my-creative-outlets/)"
 categories: 
   - "art"
