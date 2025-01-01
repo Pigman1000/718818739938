@@ -5,13 +5,19 @@ author_profile: false
 
 # Kumthar Chibai  
 
-**Notice!** Website is under construction.  
-{: .notice--warning}  
+{: .notice--warning}
+**Heads Up!** This website is still `under construction.` Some features, such as breadcrumbs, categories, tags, archives, and projects pages, are not ready yet. Thank you for your patience as improvements are underway!  
 
-Welcome to my corner of the internet! This website is still under construction, so please bear with me. Some features, like breadcrumbs, may not be fully functional just yet.  
+Welcome to my corner of the internet! This website is under construction, so please bear with me. While the main menu and search functionality are operational, some sections are still in progress:  
 
-The main menu and search functionality are operational, so feel free to explore the site. However, please note that the Archives page and Projects page are not ready yet and will be coming soon.  
+- **Breadcrumbs**  
+- **Categories page**  
+- **Tags page**  
+- **Archives page**  
+- **Projects page**  
+
+We're working to get these features up and running soon.  
 
 ~~For updates and progress on the website, check out the [Site Updates](#) page.~~  
 
-Thanks for your patience, and I appreciate your understanding as I work on improving the site. Stay tuned for more!
+Thanks for your patience and understanding as we continue improving the site. Stay tuned for more updates!
