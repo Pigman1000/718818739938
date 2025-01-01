@@ -52,6 +52,7 @@ But this isn’t just about nostalgia. It’s also a reflection on how those ear
 </figure> 
 
 I began learning 3D art in late 2020, diving into YouTube tutorials and experimenting with Blender. Although I don’t pursue it as rigorously anymore, 3D art remains a meaningful part of my life. I still find joy in watching stunning renders and admiring how artists bring their visions to life. It’s much like my relationship with music—I no longer actively seek out new songs, but when one resonates, it finds its way into my playlist.
+
 One thing about 3D work that continues to fascinate me is the sheer creativity and attention to detail that artists pour into their craft. It’s not just about making something look good; it’s about understanding the anatomy, structure, and behavior of objects in different conditions—caustics, god rays, shading, lighting, and countless other elements that we often overlook.
 
 I remember watching a tutorial on creating realistic trees and realizing how much thought goes into even the smallest details. Despite being surrounded by trees my whole life, I never considered how different a sapling is from a fully grown tree, or how you can’t just slap leaves onto branches. They have to attach to twigs in a way that feels natural. The type of leaf matters too—certain leaves only grow on specific trees, and getting that wrong instantly breaks the illusion of realism. Even if we can’t always pinpoint what’s off, the human mind notices.
