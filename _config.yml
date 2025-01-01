@@ -146,21 +146,20 @@ footer:
       url: "https://x.com/thingpuisenhang"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-       url: "https://facebook.com/donalmuolhoi"
+      url: "https://facebook.com/donalmuolhoi"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/pigman1000"
+      url: "https://github.com/pigman1000"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-       url:
+      url: ""
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
       url: "https://youtube.com/donalmuolhoi"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
-
-
+      url: ""
+      
 # Reading Files
 include:
   - .htaccess
