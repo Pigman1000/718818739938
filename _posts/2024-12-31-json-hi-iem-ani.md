@@ -134,16 +134,8 @@ Curly {curly} in a khar khum po hi object an na , object sunga um hai hi key val
     }
   ]
 }
+
 ```
-
-Ei belsa chu abul taka
-{ 
-    "people": 
-
-colon (:) zoa { kha [ a ei thlek danglam le
-a tawp taka 
-] le } 
-a ei khar hi anih.
 
 Hieng hin ni tamtak data ei siem thei anih .
 
@@ -156,6 +148,7 @@ Ahnuoia hi structure hrietthiem awlsam lem ,
 Square brackets in ei tran a , square brackets bawkin ei tawp a , data kar thre na ding ahin comma (,) ei hmang anih. Hihi flat structure anih.
 
 ```Json
+
 [
   {
     "name": "Eunicky Lungtau",
@@ -173,6 +166,7 @@ Square brackets in ei tran a , square brackets bawkin ei tawp a , data kar thre 
     "active": true
   }
 ]
+
 ```
 
 JSON hi flexible hle sienkhawm dataset ahai hin dan naran chun structure mumal deu a trul hlaka , amruokchu dataset hi local server ah i host ding apoi bek chuong naw anih asanchu query dan ding nangin i siem ding ani leiin.
@@ -184,17 +178,20 @@ Bible data siem na ding khawma hmang thei ana.
 **Tekhina:5**
 
 ```Json
+
 {
   "book": "Johan",
   "chapter": 3,
   "verse": 16,
   "text": "Pathienin khawvêl a hmangai bêk bêk a, chuongchun, a Naupa khât nei sun chu a pêk a, ama chu tûkhawm a ring taphawt chu an bohmang nawh a, chatuona hringna an nei lemna dingin."
 }
+
 ```
 
 **Tekhina:6**
 
 ```Json
+
 {
   "reference": {
     "book": "Johan",
@@ -204,6 +201,7 @@ Bible data siem na ding khawma hmang thei ana.
   "text": "Pathienin khawvêl a hmangai bêk bêk a, chuongchun, a Naupa khât nei sun chu a pêk a, ama chu tûkhawm a ring taphawt chu an bohmang nawh a, chatuona hringna an nei lemna dingin.",
   "translation": "HMARCLBSI"
 }
+
 ```
 
 Hieng tilo khawma parallel translation data siem ding khawma a structure hi ei nuom dan taka siem   thei ana.
@@ -211,6 +209,7 @@ Hieng tilo khawma parallel translation data siem ding khawma a structure hi ei n
 **Tekhina:7**
 
 ```Json
+
 {
   "reference": {
     "book": "John",
@@ -241,6 +240,7 @@ Hi anhnuoia structure hi a chunga mi lehin an ang naw achu purpose — parallel 
 
 
 ```Json
+
 {
   "John_3_16": {
     "CLBSI": {
@@ -257,6 +257,7 @@ Hi anhnuoia structure hi a chunga mi lehin an ang naw achu purpose — parallel 
     }
   }
 }
+
 ```
 
 ---
@@ -269,8 +270,10 @@ Achunga hming ka hung hmang hai CSV format tekhina dingin hang hmang nawk vat la
 **Tekhina:9**
 
 ```CSV
+
 Name,Age,Active
 Eunicky,33,True
+
 ```
 
 **Tekhina:10**
@@ -278,8 +281,10 @@ Eunicky,33,True
 ***A ziek dan dang chu inverted commas (") hmangin.***
 
 ```CSV
+
 Name,Age,Active
 "Eunicky Lungtau","33","True"
+
 ```
 
 double inverted comma hmanga CSV file siem hi a tangkaina chu , column pakhat sungah value dang khawm i sie sa thei anih.
@@ -289,6 +294,7 @@ Tekhina in translation data lo siem nila.
 **Tekhina:11**
 
 ```CSV
+
 hmar-phrase,english-translation
 "iem I hming,iem ani I hming","what is your name"
 "tum ini,tu'm ini","who are you"
