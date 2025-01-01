@@ -1,11 +1,12 @@
 ---
 layout: archive
-title: "Archive"
-permalink: /page-archive/
-author_profile: false
+permalink: /archives/
+search: false
 ---
 
-{% assign posts = site.pages | where_exp: "post", "post.hidden != true" %}
-{% for post in posts %}
-  {% include archive-single.html %}
-{% endfor %}
+{{ content }}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% include documents-collection.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order type=entries_layout %}
+</div>
