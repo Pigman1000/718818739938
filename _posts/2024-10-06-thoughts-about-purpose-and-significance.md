@@ -8,18 +8,10 @@ tags:
   - "explorations"
   - "observations"
 ---
-
-<figure>
-
-![](https://dmuolhoi.wordpress.com/wp-content/uploads/2024/10/forest21221801379123179961.jpg?w=580)
-
-<figcaption>
-
-Jadav Payeng
-
-</figcaption>
-
-</figure>
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jadav-payeng.jpeg" alt="Jadav Payeng: The man who planted trees">
+  <figcaption>Jadav Payeng: The man who planted trees.</figcaption>
+</figure> 
 
 A few weeks back, I found myself grappling with thoughts of how insignificant and small I am, and i felt very overwhelmed with negativity. I’m not sure what triggered it—maybe my ongoing struggle for financial independence or my discomfort in my own body. Whatever the cause, it led me to reflect on my legacy. I realized I hadn’t been paying enough attention to it, but deep down, I want to be remembered—not just as someone who lived, but as someone significant. I think we all share this desire.
 

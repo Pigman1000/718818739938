@@ -9,8 +9,8 @@ tags:
 ---
 
 <figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jadav-payeng.jpeg" alt="Jadav Payeng: The man who planted trees">
-  <figcaption>Jadav Payeng: The man who planted trees.</figcaption>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/black-alien-project.jpeg" alt="Black Alien Project.">
+  <figcaption></figcaption>
 </figure> 
 
 I’ve been thinking about the way society sometimes reacts to self-expression. It’s as though putting your thoughts out there invites the question — _**Who do you think you are?**_ — a question I often find myself asking, too. It’s strange how something as personal as sharing your mind can feel so exposed, so vulnerable, like you’re putting your sense of self on trial.
