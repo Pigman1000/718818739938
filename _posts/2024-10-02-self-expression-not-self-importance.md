@@ -1,3 +1,4 @@
+---
 title: "Self-Expression, Not Self-Importance"
 date: "2024-10-02"
 excerpt:"I can't help but feel that society has a negative perception of self-expression, to the point where it makes me question my own identity — _**Who do you think you are?**_ — as if I don't deserve to scribble down my thoughts, as if my inner self isn't real."
