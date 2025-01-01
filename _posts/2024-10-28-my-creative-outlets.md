@@ -18,8 +18,6 @@ tags:
   - "songs"
 ---
 
-# Appreciation for digital artists
-
 This might sound a bit cringe because not everyone can relate, but growing up, comic books were my entire world. They weren’t just entertainment—they were my escape, my inspiration, and the spark that fueled my creativity. For the longest time, they were all I had, at least until my father bought me a Walkman when I got older.
 
 I still remember that day vividly—a small bamboo hut perched on a hill in the middle of town. It’s a memory that stands out as one of my happier days, though it feels strange to say that now. Looking back, life felt perfect in its own way, despite the hardships. I think about my mother today and the state she’s in, and I’d give anything to bring back the health and happiness she once had.
@@ -45,6 +43,8 @@ Of course, my love for comics wasn’t limited to *Archie*. I was equally drawn 
 It makes me wonder if there are comic series I’ve completely forgotten—hidden gems buried in my childhood memories, waiting to be rediscovered.
 
 But this isn’t just about nostalgia. It’s also a reflection on how those early passions shaped who I am today. This post marks a turning point for me—a step toward sharing my creative journey and thoughts.
+
+### Appreciation for digital artists
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hammer.jpg" alt="hammer-render">
