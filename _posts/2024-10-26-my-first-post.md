@@ -13,6 +13,7 @@ tags:
   - "philosophy"
   - "self-reflections"
 toc: true
+share: false
 ---
 
 {: .notice--info}
