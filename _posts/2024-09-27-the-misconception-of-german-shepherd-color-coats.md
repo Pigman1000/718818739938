@@ -33,7 +33,7 @@ Horand's lineage includes notable dogs such as Hector Von Schwaben, who was know
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/doggies/GSD3.jpg" alt="Hector Von Schwaben">
-  <figcaption>Hector Von Schwaben had some tan</figcaption>
+  <figcaption>Hector Von Schwaben had some tan undercoat</figcaption>
 </figure> 
 
 Beowulf Sonnenberg, celebrated for his exceptional working abilities and robust physique. These dogs contributed significantly to the breed's development and were part of the early efforts to establish the German Shepherd as a versatile working dog.
