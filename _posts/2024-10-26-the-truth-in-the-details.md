@@ -8,7 +8,9 @@ tags:
   - "philosophy"
   - "self-reflections"
 ---
-### electron flow in electronics vs conventional current
+
+Electron flow in circuits and conventional current
+
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/electron-flow.jpg" alt="electron-flow">
   <figcaption>a slightly scientific looking diagram I stole from the internet to make myself look more knowledgeable</figcaption>

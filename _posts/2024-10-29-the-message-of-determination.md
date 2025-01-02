@@ -14,7 +14,7 @@ tags:
   <figcaption>Dasrath Manji, The Mountain Man</figcaption>
 </figure> 
 
-{: .notice--warning}
+{: .notice--info}
 **Note:** This post reflects my personal perspective on the life of Dashrath Manji, rather than a detailed account of his story. If you're interested in learning more about this extraordinary man, you can visit his [Wikipedia](https://en.wikipedia.org/wiki/Dashrath_Manjhi) page for further reading.
 
 Who would have thought it possible for one lone man to carve a path through a mountain using nothing but a chisel and hammer? Yet, Dashrath Manji did it.
