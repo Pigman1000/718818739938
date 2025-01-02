@@ -27,8 +27,4 @@ This makes me reflect on how perfectly he lived his life, and it bothers me to r
 
 Though I still don't understand why I feel the need to articulate and express these thoughts, I hope that one day I can truly embody the man I envision in my mind and realize that I’ve always been him. Until then, I’ll embrace this uncertainty, knowing that every step I take matters.
 
-![](https://dmuolhoi.wordpress.com/wp-content/uploads/2024/10/pexels-photo-38136.jpeg?w=1024)
-
 How do we find purpose in our lives amidst the chaos, and can we truly recognize the significance of our actions? This was a thought I had a few weeks back, and I felt I should share it. I don't think I can capture that emotion ever again, but I'm hopeful I've captured the essence of it and expressed what I truly want to say. If not, I suppose I'll rewrite it when I revisit this post again some other time!
-
-* * *
