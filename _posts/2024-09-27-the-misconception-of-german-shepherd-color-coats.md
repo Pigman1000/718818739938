@@ -2,7 +2,7 @@
 title: "The Misconception Of German Shepherd Color Coats"
 excerpt: "There's a common misconception that German Shepherd Dogs (GSDs) are always black and tan, and this misconception extends to the idea that black German Shepherds are not true GSDs. However, this couldn't be further from the truth."
 date: "2024-09-27"
-tagline:  " <span style='font-size: 2em;'>Was the</span><br>German Shepherd Dog Breed<br>not originally black ?"
+tagline:  " <span style='font-size: 2em;'>German Shepherd Dogs</span><br>are originally black."
 header:
   overlay_image: /assets/images/doggies/GSD1.jpg
   caption: "Photo credit: [**Anon**](https://pigman1000.github.io/9101-292-003/general/the-misconception-of-german-shepherd-color-coats/)"
