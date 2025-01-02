@@ -1,6 +1,7 @@
 ---
 title: "The Truth In The Details"
 date: "2024-10-26"
+excerpt: "I'm not sure if I’ve mentioned this already, but I recently started learning about electricity. To me, this feels like a very natural path to follow—especially for someone trying to expand their knowledge. After all, electricity is literally the foundation on which the modern world is built."
 categories: 
   - "reflections"
 tags: 

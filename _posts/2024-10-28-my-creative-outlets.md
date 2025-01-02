@@ -1,9 +1,8 @@
 ---
 title: "My Creative Outlets"
 date: "2024-10-28"
-excerpt: "This will be a bit cringe cuz not everybody can relate but then again , it's not my fault if you think this is childish. 
-Growing up, comic books were my entire world. They were more than just entertainment—they were my escape, my inspiration, and my creative spark. For the longest time, they were all I had, at least until my father bought me a Walkman when I got older. While everyone was busy playing *Virtua Cop* on Windows 98, I spent my days stealing comic books from the local store and sketching the characters and worlds I admired so much."
-tagline: " Spiderman is the actual main character of Marvel Universe."
+excerpt: "This might sound a bit cringe because not everyone can relate, but growing up, comic books were my entire world. They weren’t just entertainment—they were my escape, my inspiration, and the spark that fueled my creativity. For the longest time, they were all I had, at least until my father bought me a Walkman when I got older."
+tagline:  " <span style='font-size: 2em;'>Spiderman</span><br>is the actual main character<br>of Marvel Universe."
 header:
   overlay_image: /assets/images/spiderman.jpeg
   caption: "Photo credit: [**No Credits**](https://pigman1000.github.io/9101-292-003/art/general/my-creative-outlets/)"
