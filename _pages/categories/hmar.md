@@ -1,5 +1,5 @@
 ---
 layout: posts
-permalink: /hmar/
-title: "Hmar"
+permalink: /categories/hmar
+title: "Categories"
 ---
