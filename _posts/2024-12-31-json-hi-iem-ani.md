@@ -22,6 +22,8 @@ JSON hin a hnuoia structure hi aneia.
 
 **Tekhina:1**
 
+---
+
 ```Json
 
 {
@@ -31,6 +33,8 @@ JSON hin a hnuoia structure hi aneia.
 }
 
 ```
+
+---
 
 Hi structure hi , "key  le value " pair an na, `name` hi key ana a value chu `Eunicky Lungtau` ti hi anih.
 
@@ -51,6 +55,8 @@ Pdf , Jpg , Mp3, Mp4 le Json khawm hi data format an na ei hmang dan a dang seng
 Json structure hi a flexible hle ,  google sheets le excel ahai first row hi header a ei hmang a data ei siem hin row le column chou a um theia , Json a ruok hinchu ei nuom dan takkin hi structure hi ei siem thei anih.
 
 **Tekhina:2**
+
+---
 
 ```Json
 
@@ -78,6 +84,8 @@ Json structure hi a flexible hle ,  google sheets le excel ahai first row hi hea
 
 ```
 
+---
+
 Tekhina in a chunga structure ahin `name` hi key ana, Eunicky Lungtau hi value anih ka hung ti a khan , value ahin key le value a um sa theia.
 
 **note:** hi structure hi , hiva data pakhat a ding cho hin a valid asanchu coherence anei nawh.
@@ -91,6 +99,8 @@ Achunga data popo hi andik naw na chu  object pakhat an na , hieng popo data hi 
 Curly {curly} in a khar khum po hi object an na , object sunga um hai hi key value pair an na , hi curly brackets {curly} pahnina hi `"isRemote":false` zoa curly brackets {curly} pahni na hin a khar khuma , hi hnung chi a comma (,) hin `name` anthawk `isRemote` chen hin object pakhat an ni tir anih.
 
 **Tekhina:3**
+
+---
 
 ```Json
 
@@ -143,15 +153,17 @@ Curly {curly} in a khar khum po hi object an na , object sunga um hai hi key val
 
 ```
 
-Hieng hin ni tamtak data ei siem thei anih .
-
 ---
 
-Ahnuoia hi structure hrietthiem awlsam lem , 
+Achunga ang hin mi tamtak data ei siem thei anih .
+
+Ahnuoia hi hrietthiem a awlsam deua anachu ama hi flat structure anih.
 
 **Tekhina:4**
 
-Square brackets in ei tran a , square brackets bawkin ei tawp a , data kar thre na ding ahin comma (,) ei hmang anih. Hihi flat structure anih.
+Square brackets in ei tran a , square brackets bawkin ei tawp a , data kar thre na ding ahin comma (,) ei hmang anih.
+
+---
 
 ```Json
 
@@ -175,6 +187,8 @@ Square brackets in ei tran a , square brackets bawkin ei tawp a , data kar thre 
 
 ```
 
+---
+
 JSON hi flexible hle sienkhawm dataset ahai hin dan naran chun structure mumal deu a trul hlaka , amruokchu dataset hi local server ah i host ding apoi bek chuong naw anih asanchu query dan ding nangin i siem ding ani leiin.
 
 JSON hi a flexible el khelah , a lightweight hle a a hrietthiem khawm a awlsam hle a , tekhina dang hung bel sa lang.
@@ -182,6 +196,9 @@ JSON hi a flexible el khelah , a lightweight hle a a hrietthiem khawm a awlsam h
 Bible data siem na ding khawma hmang thei ana.
 
 **Tekhina:5**
+
+---
+
 
 ```Json
 
@@ -240,10 +257,14 @@ Hieng tilo khawma parallel translation data siem ding khawma a structure hi ei n
 
 ```
 
+---
+
+
 **Tekhina:8**
 
 Hi anhnuoia structure hi a chunga mi lehin an ang naw achu purpose — parallel translation data structure an suk puitling veve anih.
 
+---
 
 ```Json
 
@@ -275,6 +296,8 @@ Achunga hming ka hung hmang hai CSV format tekhina dingin hang hmang nawk vat la
 
 **Tekhina:9**
 
+---
+
 ```CSV
 
 Name,Age,Active
@@ -282,9 +305,14 @@ Eunicky,33,True
 
 ```
 
+---
+
+
 **Tekhina:10**
 
-***A ziek dan dang chu inverted commas (") hmangin.***
+***A ziek dan dang chu double inverted commas (") hmangin.***
+
+---
 
 ```CSV
 
@@ -293,11 +321,16 @@ Name,Age,Active
 
 ```
 
+---
+
 double inverted comma hmanga CSV file siem hi a tangkaina chu , column pakhat sungah value dang khawm i sie sa thei anih.
 
 Tekhina in translation data lo siem nila.
 
 **Tekhina:11**
+
+---
+
 
 ```CSV
 
@@ -306,6 +339,9 @@ hmar-phrase,english-translation
 "tum ini,tu'm ini","who are you"
 
 ```
+
+---
+
 
 Hi achunga data tekhina ahin `what is your name` le `who are you` hin parallel translation pahni ve ve in an nei anih .
 
