@@ -1,7 +1,7 @@
 ---
-title: "<span style='color:black;'> Recognising the duality of human experience .</span>"
+title: "Recognising the duality of human experience"
 date: "2024-10-16"
-tagline: "<span style='color:black;'>like yin and yang</span>"
+tagline: "yinyang"
 header:
   overlay_image: /assets/images/split-personality.jpg
   caption: "Photo credit: [**Artstation : Hanvissia**](https://www.artstation.com/artwork/w0nOk6)"
