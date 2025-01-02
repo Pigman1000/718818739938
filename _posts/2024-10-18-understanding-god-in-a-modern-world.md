@@ -26,4 +26,6 @@ I believe that answering these questions with an open heart and mind can help us
 
 To claim that religion is filled with immoral or illogical rules is to imply that our understanding of life and existence is complete and flawless—that our interpretation of God is final and beyond question. Yet history shows that we, as humans, are imperfect, and our understanding of life, of morality, and of God, evolves. Our perspectives grow and change. To reject this process of growth and change, and to claim that one has a perfect understanding of God, seems to me to be an act of denial.
 
+If we acknowledge that there is so much we still don't understand about the universe, how can we presume we understand the one who created it? If we can't even grasp how the technologies we use every day, like smartphones and computers, function, how can we confidently claim there is no God based on our limited understanding of morality and correctness?
+
 In our journey of faith, it's important to embrace humility, recognizing that our understanding will always be imperfect, yet still worth pursuing. The search for truth—whether spiritual or scientific—has the potential to bring us closer to the divine, to each other, and to a deeper sense of meaning in life.
