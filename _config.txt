@@ -323,3 +323,9 @@ defaults:
       comments: # true
       share: true
       related: false
+
+collections:
+  hmar:
+    output: true
+    permalink: /:collection/:path/
+
