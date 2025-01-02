@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "What is Bungpui Project"
 date: "2024-09-01"
 categories: 

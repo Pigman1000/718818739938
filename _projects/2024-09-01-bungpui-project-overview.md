@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Bungpui Overview"
 date: "2024-09-01"
 categories: 
