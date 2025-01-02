@@ -2,7 +2,7 @@
 title: "The Misconception Of German Shepherd Color Coats"
 excerpt: "There's a common misconception that German Shepherd Dogs (GSDs) are always black and tan, and this misconception extends to the idea that black German Shepherds are not true GSDs. However, this couldn't be further from the truth."
 date: "2024-09-27"
-tagline:  " <span style='font-size: 2em;'>German Shepherd Dogs</span><br>are originally black."
+tagline:  " <span style='font-size: 1.2em;'>German Shepherd Dogs</span><br>are originally black."
 header:
   overlay_image: /assets/images/doggies/GSD1.jpg
   caption: "Photo credit: [**Anon**](https://pigman1000.github.io/9101-292-003/general/the-misconception-of-german-shepherd-color-coats/)"
@@ -23,7 +23,7 @@ In discussing the lineage of German Shepherds, it's essential to recognize sever
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/doggies/GSD2.jpg" alt="fill here">
-  <figcaption>Horand Von Grafath</figcaption>
+  <figcaption>Horand Von Grafath , was originally black</figcaption>
 </figure> 
 
 Horand Von Grafath, recognized as the foundation dog of the German Shepherd breed, was born in 1895 and became the first registered German Shepherd in 1899. His coat was primarily black with tan markings, a coloration characteristic of the early German Shepherds.
@@ -33,14 +33,14 @@ Horand's lineage includes notable dogs such as Hector Von Schwaben, who was know
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/doggies/GSD3.jpg" alt="Hector Von Schwaben">
-  <figcaption>Hector Von Schwaben</figcaption>
+  <figcaption>Hector Von Schwaben had some tan</figcaption>
 </figure> 
 
 Beowulf Sonnenberg, celebrated for his exceptional working abilities and robust physique. These dogs contributed significantly to the breed's development and were part of the early efforts to establish the German Shepherd as a versatile working dog.
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/doggies/GSD4.jpg" alt="Image of Beowulf Sonnenberg">
-  <figcaption>Beowulf Sonnenberg</figcaption>
+  <figcaption>Beowulf Sonnenberg was mostly black</figcaption>
 </figure> 
 
 These dogs contributed significantly to the breed's development and characteristics. Their roles varied from working dogs to show dogs, emphasizing the versatility and intelligence of the breed.
@@ -62,14 +62,14 @@ Among these, the West German Working Line is the breed closest to the original G
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/doggies/GSD5.jpg" alt="Heinz z Timberridge and Hector Von Schwaben">
-  <figcaption>Heinz z Timberridge </figcaption>
+  <figcaption>Heinz z Timberridge , still retains a mostly black coat</figcaption>
 </figure> 
 
 German Shepherds today come in various colors, including solid black, sable, and even white. While the white German Shepherd is sometimes considered a separate breed due to its distinct recognition issues, the other colors are all part of the GSD breed, showcasing the diversity within it.
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/doggies/GSD6.jpg" alt="Image of a white GSD">
-  <figcaption>A white GSD</figcaption>
+  <figcaption>A white GSD </figcaption>
 </figure> 
 
 This misconception about color can be attributed to breed standards set by various kennel clubs that have historically favored the black and tan coloration. However, it is vital to acknowledge the broad spectrum of colors present in the breed's history.
