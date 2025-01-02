@@ -11,6 +11,9 @@ tags:
 toc: true
 ---
 
+{: .notice--info}
+**Note:** This post was originally meant to symbolize the beginning of my blogging journey. It has now been repurposed as a space to share updates about my website and projects, tracking my progress, changes, and key milestones as I continue to develop and refine my platform and content. For specific details about the updates, you can refer to the index, which is organized by dates.
+
 # My First Post
 
 Hi, I decided to start this blog as a means for me to stay honest, transparent, and share my story, my thoughts, and my journey through life. I'm not sure how much I should share because this is different from a private journal, so I guess I'll have to figure that out. I'm not certain if I can keep this up in the long run or if the benefits outweigh the disadvantages, but I promise to try my best and to always be honest and transparent.
