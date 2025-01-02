@@ -29,17 +29,18 @@
   }
 
   /* button colors */
+  $whatsapp-color: #25D366; // WhatsApp's official green color
   $buttoncolors:
-  (primary, $primary-color),
-  (inverse, #fff),
-  (light-outline, transparent),
-  (success, $success-color),
-  (warning, $warning-color),
-  (danger, $danger-color),
-  (info, $info-color),
-  (facebook, $facebook-color),
-  (twitter, $twitter-color),
-  (whatsapp, $whatsapp-color);
+    (primary, $primary-color),
+    (inverse, #fff),
+    (light-outline, transparent),
+    (success, $success-color),
+    (warning, $warning-color),
+    (danger, $danger-color),
+    (info, $info-color),
+    (facebook, $facebook-color),
+    (twitter, $twitter-color),
+    (whatsapp, $whatsapp-color);
 
   @each $buttoncolor, $color in $buttoncolors {
     &--#{$buttoncolor} {
