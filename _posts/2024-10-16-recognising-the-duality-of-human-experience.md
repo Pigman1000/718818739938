@@ -1,6 +1,10 @@
 ---
 title: "Recognising The Duality Of Human Experience"
 date: "2024-10-16"
+tagline: "Time flies like a banana, but gravity prefers apples."
+header:
+  overlay_image: /assets/images/split-personality.jpg
+  caption: "Photo credit: [**Artstation : Hanvissia**](https://www.artstation.com/artwork/w0nOk6)"
 categories: 
   - "reflections"
 tags: 
@@ -8,22 +12,21 @@ tags:
   - "opinion-pieces"
 ---
 
-![](https://dmuolhoi.wordpress.com/wp-content/uploads/2024/10/pexels-photo-6944935.jpeg?w=1024)
 
-Negativity and positivity are inherent in humans, and we do not have control over how and when these thoughts arise. While we might hope to prepare ourselves for negative feelings by identifying patterns and sequences leading to them, even sleep offers only a temporary pause in this mental dialogue.
+Negativity and positivity are part of me, and I don’t always have control over when or how these thoughts appear. While I try to prepare myself for negative feelings by recognizing patterns that lead to them, even sleep offers only a temporary pause in this ongoing mental dialogue.
 
-Denying the existence of negative thoughts is a form of hypocrisy. Believing that only positive thoughts are constructive is illogical. If we equate our thoughts to processes in electricity, we see that a negative charge is equally responsible for the functioning of logic.
+It would be unkind to deny the existence of negative thoughts. The idea that only positive thoughts are helpful doesn’t quite make sense. If I think of my thoughts as processes, it becomes clear that even negative charges are necessary for things to work properly, like in electricity.
 
-Ancient Chinese civilizations captured this duality in the concept of Yin and Yang, illustrating how these principles have outlived countless cultures and traditions, yet still hold true today.
+Ancient Chinese wisdom captures this balance in the concept of Yin and Yang, showing that this duality has remained relevant through countless cultures and traditions, and still holds true today.
 
-It’s crucial to recognize that the negative thoughts we experience internally can manifest in others. Denying these thoughts is akin to denying the existence of those who share similar struggles. No matter what we do, there will always be individuals who question our intentions and motivations, often assigning them to negativity.
+It’s important for me to remember that the negative thoughts I experience inside can also show up in others. Denying these thoughts would be like denying the struggles of those around me. No matter what I do, there will always be individuals who question my intentions, sometimes seeing negativity where I may not have intended it.
 
-Ultimately, it’s about coming to terms with these internal negative thoughts and addressing them. While this may feel like a never-ending struggle at times, it is a vital part of being human. These challenges give our lives purpose and meaning, enabling us to experience emotions that ground our accomplishments in reality.
+Ultimately, coming to terms with these internal negative thoughts and working through them is part of my journey. Though it can feel like a never-ending struggle at times, these challenges give my life meaning, allowing me to experience emotions that make my accomplishments feel real and grounded.
 
-Consider that something we create today may seem perfect, yet there will come a time when we recognize its flaws. This is evident in the evolution of our technologies and morals informed by religion throughout history.
+I might create something today that feels perfect, only to notice its flaws later. This is something I see not only in my own work but also in the evolution of technology, morality, and the values shaped by religion throughout history.
 
-While we may not be able to address all these questions immediately, we can strive to separate ourselves from negative thoughts and approach them with kindness. This is self-compassion.
+While I may not have all the answers right away, I try to distance myself from negative thoughts and approach them with kindness. This is what I understand as self-compassion.
 
-Acknowledge that these thoughts exist and that they are not you. Recognize why they arise and how you can overcome them.
+I acknowledge that these thoughts exist and that they are not me. I see why they arise and how I can gently move beyond them.
 
-Sharing these reflections in a blog post does not absolve me of my own negative thoughts or make me better at identifying them. It is a reminder of our interconnectedness as humans, from our thoughts and actions to the quantum level
+Writing these reflections in a blog post doesn’t mean I’m immune to negative thoughts or that I’ve mastered identifying them. It’s simply a reminder of how connected we all are as humans, from our thoughts and actions to the smallest parts of our existence.
