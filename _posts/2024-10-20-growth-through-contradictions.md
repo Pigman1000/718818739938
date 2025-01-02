@@ -1,13 +1,15 @@
 ---
 title: "Growth Through Contradictions"
 date: "2024-10-20"
+tagline: " "
+header:
+  overlay_image: /assets/images/tommy-hindley.jpg
+  caption: "Photo credit: [**Getty Images : Tommy Hindley**](https://www.gettyimages.in/detail/news-photo/oscar-pistorius-of-south-africa-at-the-start-of-the-mens-news-photo/453515816)"
 categories: 
   - "reflections"
 tags: 
   - "explorations"
 ---
-
-![](https://dmuolhoi.wordpress.com/wp-content/uploads/2024/10/img-20241020-wa00015358470175670323734.jpg?w=1024)
 
 I have always thought that coming to a shared understanding or a unified mind is what we should strive for, but I may have been wrong.
 
@@ -26,5 +28,3 @@ The challenge then lies in accepting the most logical conclusion and understandi
 This begs the question: if your worldview is the only truth that is valid and everything else is illogical and deserving of hate and dismissal, why do you enjoy the fruits of the hard work of others with whom you do not share a shred of your worldview?
 
 Self-expression becomes impossible with a unified mind, and while there may be a reality where this awaits us, I struggle to grasp it due to my understanding of individuality and its role in shaping our current reality. I realize there may be truths that I can't yet connect with, but regardless of what the future holds, I believe it's important to recognize the complexity of our thoughts. I see this as the only path forward for personal growth, and identifying this may help in effectively guiding ourselves through change, adaptation, and growth.
-
-* * *
