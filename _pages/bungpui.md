@@ -1,7 +1,7 @@
 ---
 title: Bungpui
 layout: collection
-permalink: /projects/bungpui/
+permalink: /bungpui/
 collection: bungpui
 entries_layout: grid
 classes: wide
