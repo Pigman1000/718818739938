@@ -9,40 +9,32 @@ tags:
   - "self-reflections"
 ---
 
-* * *
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/dasrath-manji.jpg" alt="Dasrath Manji Image">
+  <figcaption>Dasrath Manji, The Mountain Man</figcaption>
+</figure> 
 
-Who would have thought it's possible for one lone man to carve a path through a mountain with just a chisel and a hammer yet it's been done.
+{: .notice--warning}
+**Note:** This post reflects my personal perspective on the life of Dashrath Manji, rather than a detailed account of his story. If you're interested in learning more about this extraordinary man, you can visit his [Wikipedia](https://en.wikipedia.org/wiki/Dashrath_Manjhi) page for further reading.
 
-It sounds insignificant , and even foolish yet it's the reason why this message will live on, I have no doubts about it.
+Who would have thought it possible for one lone man to carve a path through a mountain using nothing but a chisel and hammer? Yet, Dashrath Manji did it.
 
-<figure>
+It may sound insignificant or even foolish at first, but the reason his message endures is clear. I have no doubts about it.
 
-![](https://dmuolhoi.wordpress.com/wp-content/uploads/2024/10/dashrath_manjhi_a_647_0715151246232196852687466463415.jpg?w=690)
+The image of him, hammer in hand, chiseling away, becomes not just an image of toil, but of a man carving his destiny against all odds. With every strike, the mountain is chipped away, piece by piece, not just in the physical sense, but as a symbol of unwavering human determination. It’s as if, with every blow, he defies the very forces that would try to stop him, and in doing so, he carves a path not only through the mountain but through the hearts of those who hear his story.
 
-<figcaption>
+The question is: what else could he have done?
 
-Dasrath Manji , The Mountain Man
+Does it seem foolish simply because it was hard work?
 
-</figcaption>
+A man raised far from the conveniences of the "modern world" didn’t have access to the tools and technologies we take for granted today. But does that make him ignorant? Does the fact that we think we know better than him suggest that we’re somehow more in tune with reality? Or could it be that he, in his simplicity, had a deeper understanding of life?
 
-</figure>
+His determination wasn’t just about a physical task; it was a demonstration of what the human spirit can achieve. Imagine the visual of him, day after day, tirelessly striking at the mountain as the sun sets in the distance. It wasn’t the speed or ease that mattered; it was the fact that he did it at all.
 
-The question is what else could he have done ?
+So, what do I take away from his life? Should I dismiss his actions as mindless digging over two decades, rendering his example irrelevant to my own circumstances? Isn’t that a bit hypocritical? We often assume we know people better than they know themselves, but here was a man who lived an extraordinary life through sheer determination—something I’m still learning to fully grasp.
 
-Is it stupid because it's hard work ?
+Maybe it’s because I recognize a lack of that same determination within myself. Perhaps I value acceptance and recognition too much, which makes my own purpose feel insignificant. Or maybe I still don’t fully understand how deeply we are all connected as human beings. The lesson here isn’t just about Manji’s singular feat but about the larger human capacity to act with purpose.
 
-A man raised somewhere more distant from the "modern world" wouldn't have had access to the things we know and take for granted that makes our lives easier , but does it actually make him ignorant just because we supposedly know better and perceive ourselves to be more in-tune with reality ? Or is it he who's more in-tune with reality ? The reality of existence — when the message is so relative to the very core of our human nature and will remain relevant.
+This message isn't new or profound—it's something we all know deep inside. Words are just tools for communication, but the example he set is what resonates.
 
-It's not just a message but a practical example of what human determination can do.
-
-He did alone , something that would take hundreds of men with heavy machinery a couple years but it's not the speed or the ease at which the task was completed that's important here , it's about what he did.
-
-So what do I tell myself about the life that he lived ? Do i assume he mindlessly dug and dug for over 2 decades so the example is invalid and has no value ? Isn't that a bit hypocritical to assume that we know people better than they know themselves when they found a way to live extraordinary lives as ordinary men and lived it when i'm stuck here trying to decipher the message and looking for ways to make it irrelevant because the circumstances are not the same?
-
-It may just be because i somehow know deep inside that I do not have this determination, it may be because I associate the value of my purpose with acceptance and recognition that it feels insignificant, maybe because I'm still not truly aware of how we are all connected  as a species so it's not just this message that's important, but a fusion of everything because ultimately , we all know this deep inside.
-
-It's not something new or profound , so words become just a tool to communicate , it's the practical example.
-
-So i suppose if sharing these thoughts and blogging is the last thing I do , exploring my inner self and challenging my biases becomes my very own mountain and exposing myself  becomes, me carving a little piece of that mountain , until then I can keep looking for something much more simpler and maybe then I'll find contentment in my purpose.
-
-* * *
+So, I suppose if sharing these thoughts and blogging turns out to be the last thing I do, then exploring my inner self and challenging my biases becomes my very own mountain and each time I expose a part of myself, it’s as if I’m carving away at that mountain, piece by piece. Until then, I’ll continue searching for something simpler, and perhaps in that simplicity, maybe I'll someday find the contentment I seek in my purpose.
