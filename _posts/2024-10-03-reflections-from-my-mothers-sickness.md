@@ -1,24 +1,24 @@
 ---
 title: "Reflections From My Mother's Sickness"
 date: "2024-10-03"
+header:
+  overlay_color: "#1f2a36"
 categories: 
   - "reflections"
 tags: 
   - "self-reflections"
 ---
 
-![](https://dmuolhoi.wordpress.com/wp-content/uploads/2024/10/pexels-photo-3653998.jpeg?w=1024)
+I find myself in a very real phase of my life, and I realize that there is no avoiding what lies ahead. I hope these reflections are not an attempt to escape but rather a way to process this moment.
 
-I'm in a very real phase of my life, and there is no way to escape what lies ahead. I hope these entries are not an attempt at escaping.
+Perhaps every moment has been real, but it’s this particular realization of where I am now that makes it feel more profound.
 
-But then again , every moment has been real, it's just the realisation of coming back to this state of mind that makes it seem more real.
+I often find myself wondering why people choose to have children, but I don’t feel it’s my place to speculate or make judgments. There’s a diversity of priorities that shape the world around us, and that’s something I’ve come to appreciate, even if I don’t always understand it.
 
-I don't understand why people have children, and I won't attempt to express why I think they do because I do not want to trigger a negative emotion in someone who might have a different outlook on life. I understand that it's this diversity in priorities that has shaped the world the way it is today.
+But death—it’s undeniable and very real. The emotions tied to loss are raw, and the thought of losing someone is something we all carry with us. It can be overwhelming, and yet, it’s a reminder that change is the one constant we cannot escape. We often try to put it off or turn away, but it has a way of catching up with us when we least expect it.
 
-Nevertheless, death is a very real part of life, and the emotions connected with it are as real as they get. The thought of losing someone is daunting, and the experience of loss is perhaps a reminder that change is the only constant. Yet, we often look for ways to escape, putting off the thought for another time, but it keeps creeping up on us until it hits us one day.
+What would the world be like without death? Would it take away some of the suffering, or would we just live in an endless state of stasis? Perhaps the pursuit of knowledge is our way of trying to understand these deep questions. If I had more education or wisdom, maybe I would have the answers to these ponderings.
 
-What kind of world would it be if there were no death? Would it alleviate suffering and hardships, or would we just exist in a static state? Isn't our collective pursuit of knowledge an attempt to understand and realize truth? Maybe I'd have the answers to all of this if I were more educated and knowledgeable.
+I just hope I’m living up to my potential in this moment, and that I can honor my mother in a way that also honors myself. 
 
-I can only hope I'm living up to my potential and that I won't regret sharing these thoughts. I hope to do right by my mother so I can do right by myself.
-
-Hopefully, this post serves as a reminder that I'm not alone in this, and that death is a real human experience. It's how we live our lives, while being mindful of this truth, that makes us grow as humans and be compassionate and empathetic. Rather than denying the possibility that anything can happen at any time or separating death from life, we would be better off if we used this awareness as the driver for the pursuit of the experience of living.
+I write this post with the hope that it reminds me—and anyone reading—that we’re not alone in these experiences. Death is a natural part of life, and it’s how we live, with an awareness of this truth, that allows us to grow. Embracing this awareness helps us become more compassionate, more empathetic. Instead of fearing the unknown or separating life from death, perhaps it’s better to see both as part of the same journey—guiding us as we navigate the experiences of living.
