@@ -211,7 +211,13 @@ Bible data siem na ding khawma hmang thei ana.
 
 ```
 
+---
+
+
 **Tekhina:6**
+
+---
+
 
 ```Json
 
@@ -227,9 +233,15 @@ Bible data siem na ding khawma hmang thei ana.
 
 ```
 
+---
+
+
 Hieng tilo khawma parallel translation data siem ding khawma a structure hi ei nuom dan taka siem   thei ana.
 
 **Tekhina:7**
+
+---
+
 
 ```Json
 
