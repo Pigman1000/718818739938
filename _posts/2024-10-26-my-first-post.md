@@ -1,7 +1,11 @@
 ---
 title: "My First Post"
 date: "2024-10-26"
-excerpt: "This post serves as a space to share updates about my website and projects. It will track my progress, changes, and key milestones as I continue to develop and refine my platform and content."
+excerpt: "This post serves as a changelog , a space to share updates about my website and projects. It will track my progress, changes, and  key milestones as I continue to develop and refine my platform and content."
+tagline: "Changelog."
+header:
+  overlay_image: /assets/images/changelog.png
+  caption: "Photo credit: [**None**](https://github.io/pigman1000/718818739938/note-to-self/my-first-post/)"
 categories: 
   - "note-to-self"
 tags: 
@@ -12,7 +16,7 @@ toc: true
 ---
 
 {: .notice--info}
-**Note:** This post was originally meant to symbolize the beginning of my blogging journey. It has now been repurposed as a space to share updates about my website and projects, tracking my progress, changes, and key milestones as I continue to develop and refine my platform and content. For specific details about the updates, you can refer to the index, which is organized by dates.
+**Note:** This post was originally meant to symbolize the beginning of my blogging journey. It has now been repurposed as a changelog , a space to share updates about my website and projects, tracking my progress, changes, and key milestones as I continue to develop and refine my platform and content. For specific details about the updates, you can refer to the index, which is organized by dates.
 
 # My First Post
 
