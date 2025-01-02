@@ -8,22 +8,23 @@ tags:
   - "self-reflections"
 ---
 
-![](https://dmuolhoi.wordpress.com/wp-content/uploads/2024/10/pexels-photo-5199806.jpeg?w=683)
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/electron-flow.jpg" alt="electron-flow">
+  <figcaption>a slightly scientific looking diagram I stole from the internet to make myself look more knowledgeable</figcaption>
+</figure> 
 
-I'm not sure if I've mentioned this already, but I recently started learning about electricity, and this attempt at learning about electricity seems like a very natural path to follow for someone trying to learn and expand — or to me at least — because, not to be corny, it is quite literally the foundation on which the modern world is built.
+I’m not sure if I’ve mentioned this already, but I recently started learning about electricity. To me, this feels like a very natural path to follow—especially for someone trying to expand their knowledge. After all, electricity is literally the foundation on which the modern world is built.
 
-I don't think I would be overestimating my knowledge if I were to say I have a basic understanding of electricity, because to me, "basic" just means being able to connect a hot wire to an outlet. I'm probably wrong in the eyes of those who can design intricate systems with microcontrollers, like drones and robots and automatic turrets that can track humans and shoot paintballs, so if that's the door, I'm not quite there yet. But I understand some things about logic gates, frequencies, and digital signals, and I can make LED diodes do some basic stuff, and I can build a counter for 7-segment displays, so I think that counts as basic in all honesty.
+I wouldn’t say my knowledge is extensive, but I do have a basic understanding of electricity. To me, "basic" means I can connect a hot wire to an outlet and understand how circuits work. Of course, I’m aware that there are people who can design intricate systems with microcontrollers—things like drones, robots, or automatic turrets that can track humans and shoot paintballs. If that’s the bar, I’m not quite there yet. But I do understand the basics of logic gates, frequencies, and digital signals. I can make LED diodes perform simple tasks, and I’ve even built a counter for 7-segment displays, so I think that counts as basic knowledge.
 
-I mention this to give context to what I learned about myself and the way i process information.
+I share all of this to give some context to what I’ve learned about myself and how I process information.
 
-Electricity is a technology rooted in our understanding of physics, and I assumed, quite logically, that electrons in a circuit would follow the path described in conventional explanations: moving from positive to negative. I never questioned this assumption, but I’ve since learned that isn’t the case. This has made me reflect on how we process information — and, more importantly, how much of it we subconsciously discard, even when it contradicts what we think we know.
+Electricity is a technology rooted in our understanding of physics, and I always assumed—quite logically—that electrons in a circuit would follow the path described in conventional explanations: moving from positive to negative. I never really questioned this assumption. However, I’ve recently learned that this isn’t the case, and that realization led me to reflect on how we process information, and how much we subconsciously dismiss, even when it contradicts what we think we know.
 
-For instance, I was exposed to the information that electrons are negatively charged, but I didn’t pay much attention to it, nor did I probe further into what that meant in a circuit. It was only later, when I was building a circuit in a simulation, that the contradiction struck me, and I decided to look into it.
+For instance, I knew that electrons were negatively charged, but I never really paid much attention to what that meant for how they move in a circuit. It wasn’t until I was building a circuit in a simulation that the contradiction hit me, and I decided to dive deeper into the subject.
 
-Learning that electrons flow from negative to positive, rather than positive to negative, may not be groundbreaking news for most people. But it gave me a new understanding of how we process information. Even when I had the tools to decipher this on my own, I didn’t — I dismissed it, even after exposure to the correct information.
+Learning that electrons actually flow from negative to positive, rather than the other way around, may not be groundbreaking news for most people. But for me, it was a revelation that helped me understand how we process information. Despite having access to the correct knowledge, I dismissed it until I encountered a contradiction.
 
-This means we not only need to be observant of the information we process, but we need to be internally observant as well of our biases and assumptions — to challenge our preconceived notions of what we think is logical and what we deem unnecessary, to come to better understandings of the reality we live in when presented with contradictions.
+This experience made me realize that we need to be not only observant of the information we process, but also aware of our own biases and assumptions. We must challenge our preconceived notions of what is logical or unnecessary in order to arrive at a deeper understanding of the world around us, especially when faced with contradictions.
 
-This realization may only be a piece of a larger truth, but I believe it adds up to something important in the way we engage with knowledge and discovery.
-
-* * *
+This realization might only be a small piece of a much larger truth, but I believe it offers valuable insight into how we engage with knowledge and discovery.
