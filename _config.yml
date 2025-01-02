@@ -331,14 +331,3 @@ collections:
 
 
 
-
-ungpui:
-    output: true
-    permalink: /:collection/:path/
-
-
-
-th/
-
-
-
