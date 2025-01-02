@@ -1,7 +1,7 @@
 ---
-title: "Recognising The Duality Of Human Experience"
+title: "<span style='color:black;'> Recognising the duality of human experience .</span>"
 date: "2024-10-16"
-tagline: "Time flies like a banana, but gravity prefers apples."
+tagline: "<span style='color:black;'>like yin and yang</span>"
 header:
   overlay_image: /assets/images/split-personality.jpg
   caption: "Photo credit: [**Artstation : Hanvissia**](https://www.artstation.com/artwork/w0nOk6)"
@@ -11,7 +11,6 @@ tags:
   - "explorations"
   - "opinion-pieces"
 ---
-
 
 Negativity and positivity are part of me, and I don’t always have control over when or how these thoughts appear. While I try to prepare myself for negative feelings by recognizing patterns that lead to them, even sleep offers only a temporary pause in this ongoing mental dialogue.
 
