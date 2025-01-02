@@ -1,10 +1,9 @@
 ---
 title: "Small Small Win"
 date: "2024-12-08"
-tagline: "To learn is to evolve<br>to grow beyond what we were."
+tagline: "To learn is to evolve,<br>to grow beyond what we were."
 header:
-  overlay_image: /assets/images/finetune.jpeg
-  caption: "Photo credit: [**Don't Remember**]()"
+  overlay_color: "#1f2a36"
 excerpt: "Over the past few days (from December 6 to December 8, 2024), I’ve been immersing myself in learning more about AI and working on building my dataset. Additionally, I’ve been exploring the process of fine-tuning a language model, and I’m happy to share that I’ve made some progress. While I realize this may not be groundbreaking to those with more experience in AI, I’m genuinely excited about the steps I’ve taken so far. Given that I’m still a beginner, every small success feels like a meaningful milestone."
 categories: 
   - "technology"
