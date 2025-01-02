@@ -1,13 +1,15 @@
 ---
 title: "Realizing Our Collective Identities As Tribals Of The Northeast"
 date: "2024-10-03"
+tagline: "Identity through awareness<br>Purpose through contribution"
+header:
+  overlay_image: /assets/images/maram-naga-kids.jpeg
+  caption: "Photo credit: [**Pinterest**](https://in.pinterest.com/pin/271553052527115501/)"
 categories: 
   - "social-commentary"
 tags: 
   - "opinion-pieces"
 ---
-
-![](https://dmuolhoi.wordpress.com/wp-content/uploads/2024/10/img-20241003-wa00528065596041795538509.jpg?w=1024)
 
 The influence of the British East India Company significantly impacted the modernization of various tribal communities in Northeast India, leading to notable changes in our cultural practices and social structures. However, many of us have maintained our traditional beliefs, creating a complex dynamic—especially with the introduction of religions such as Christianity and Hinduism. This situation raised some  important questions for us : Which of our traditional values should we set aside? How do we move forward from here?
 
