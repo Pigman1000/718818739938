@@ -266,7 +266,7 @@ plugins:
 
 # mimic GitHub Pages with --safe
 whitelist:
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -330,7 +330,11 @@ collections:
     permalink: /:collection/:path/
   bungpui:
     output: true
-    permalink: /:collection/:projects/:path/
+    permalink: /:collection/:path/
+
+
+
+th/
 
 
 
