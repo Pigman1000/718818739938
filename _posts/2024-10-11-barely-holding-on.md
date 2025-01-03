@@ -1,7 +1,7 @@
 ---
 title: "Barely Holding On"
 date: "2024-10-11"
-tagline: "Time flies like a banana, but gravity prefers apples."
+tagline: " "
 header:
   overlay_image: /assets/images/Robert_Delaunay,_1913,_Premier_Disque,_134_cm,_52.7_inches,_Private_collection.jpg
   caption: "Photo credit: [**Robert Delaunay 1913**](https://en.m.wikipedia.org/wiki/Robert_Delaunay)"
