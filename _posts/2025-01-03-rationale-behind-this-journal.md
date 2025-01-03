@@ -2,13 +2,13 @@
 title: "Rationale behind this journal"
 tagline:  ""
 header:
-  overlay_image: /assets/images/doggies/vassily-kandinsky-1908.jpg
+  overlay_image: /assets/images/vassily-kandinsky-1908.jpg
   caption: "Photo credit: [**Vassily Kandinsky 1908**]()
 categories:
   - Journaling
 ---
 
-I realize this might sound repetitive because I’ve already written something similar in my earlier post, *[Journaling’s Effects on My Mental Health](#)*, but I feel it’s necessary to elaborate further and simplify my perspective and thought process on why I decided to create a public journal.  
+I realize this might sound repetitive because I’ve already written something similar in my earlier post, *[Journaling’s Effects on My Mental Health](https://pigman1000.github.io/9101-292-003/technology/journaling-is-healthy/)*, but I feel it’s necessary to elaborate further and simplify my perspective and thought process on why I decided to create a public journal.  
 
 I’m not entirely sure why I feel this is necessary—maybe it’s because I think more people should do it. Perhaps that’s another form of validation. Regardless, I must proceed, because growth is gradual. It’s not something ready-made or ready to consume. It’s like sowing a seed in the hope that the tree will bear fruit someday.  
 
