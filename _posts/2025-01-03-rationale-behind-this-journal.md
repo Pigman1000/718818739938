@@ -1,8 +1,8 @@
 ---
 title: "Rationale behind this journal"
-tagline:  " "
+tagline:  ""
 header:
-  overlay_image: /assets/images/doggies/vassily-kandinsky-1908-murnau-top-of-the-johannisstrasse.jpg
+  overlay_image: /assets/images/doggies/vassily-kandinsky-1908.jpg
   caption: "Photo credit: [**Vassily Kandinsky 1908**]()
 categories:
   - Journaling
