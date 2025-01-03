@@ -21,7 +21,7 @@ Science tieng thila thudik hrietsuoka um  hai hi ka ngaina hlak a asanchu ka nga
 
 Andik chie am ti khawm ka hriet chuong naw asanchu ka khata hun remchang ka nei huna ka bawzui thil ani lei hin.
 
-Chu po chu disclaimer ang hang ni phot sien Quantum Teleportation chungchang hi ka hrietthiem dan takkin hung hril ve zuoi katih.
+Chu po chu disclaimer ang hang ni phot sien Quantum Teleportation chungchang hi ka hrietthiem dan takkin awlsam deua hrietthiem thei dingin hung hril tum katih.
 
 
 ## Teleportation
@@ -47,9 +47,7 @@ Hieng thil hai hi Classical Physics le Quantum Mechanics ah thudik an hrietsuok 
 Anachu kati ang khan hi topic hi thil inril tak ani lei hin hrietthiem a harsa a , chu el khelah ei trawng ahin thumal kimnaw English a thumal ei hmang a, ai eiin aw tir khawm hi atama.
 
 Anachu a awlsam zawng takkin hung hril lang,
-Electricity hi eiin hnai pui tak a, ei nitin nuna hai khawm electric bo chun harsa eiti a , anachu electric hi iengtinam a um thei ? Electron chu iem ani? Electromagnetic waves hai hi iem an ni ti hai khawm hi ei hnam nunphung (culture) ahin ei neive naw lei hin hril thiem a harsa a , chu el khela ei hnam hin ei thei angin khawvel ta ding hin a hlawkpui ding kutsuok , hrietsuok ei neive naw anih.
-
-Mi nekin ei duoi bik na ding san hi a um hin ka hriet naw a , hieng hrietna hai hi ei trawng a kim fel taka hrietthiem thei dingin thuziek hi lo tam sien chu voisuna thil trullo le pawimaw loa ei ngai hai hi a pawimaw zie hrie eita , chun ei thei ang takin thawsuok ei nei thei hi ringna ka nei tlat anih. Anachu chu thu dang a kan pem dai ani leiin topic ah hang lut nawk inla.
+Electricity hi eiin hnai pui tak a, ei nitin nuna hai khawm electric bo chun harsa eiti a , anachu electric hi iengtinam a um thei ? Electron chu iem ani? Electromagnetic waves hai hi iem an ni ti hai khawm hi ei hnam nunphung (culture) ahin ei neive naw lei hin hril thiem a harsa a , chu el khela ei hnam hin ei thei angin khawvel ta ding hin a hlawkpui ding kutsuok , hrietsuok ei neive thei naw pha anih.
 
 Electricity, Electron , Electromagnetic Waves ti hai hi ei hrietthiem chun electromagnetic waves a data transmission ah iengtinam ei hmang a quantum teleportation le iem in paw na aneia iengtinam ei hlawpui thei ding ti hai hi hrietthiem antak ta naw hin ka hrieta.
 
@@ -74,7 +72,7 @@ Point khat a um particle an vir chun Point danga um particle hi , pakhat invir l
 
 Chun hieng particle hai kar hin chintawk anei naw a , ram dang danga um khawm ni hai sien an kar ieng angin hla sien khawm pakhat um dan angtakin pakhat kha a lo um ve hlak anih.
 Hienga anin awk tuo (entangled) lei hin hieng particle hai um dan hi hmang in chanchin inthawn paw tuo na (data transmission) dingin ei hmang thei ding anih.
-Trawng mawl chun Phone , Tv , Radio , ahai.
+Trawng mawl chun Phone , Tv , Radio , ahai asanchu nakieta ka hung hril ang khan digital data iengkim hi binary data (1,0) an ni lei hin.
 
 ## Quantum Teleportation chanchin that
 
