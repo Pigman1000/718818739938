@@ -8,7 +8,7 @@ classes: wide
 ---
 
 {: .notice--warning}
-**Sorry!** This page is still under construction and some links may not work. We're working hard to get it up and running as soon as possible. Thank you for your patience and understanding!
+**Heads Up!!** This page is still under construction and some links may not work. We're working hard to get it up and running as soon as possible. Thank you for your patience and understanding!
 
 Welcome to the **projects** section, where I share the work I’m exploring and learning along the way. Each project is an opportunity for me to grow, experiment, and deepen my understanding. As I continue to learn and improve, I document my progress and hope you’ll join me on this journey. 
 
