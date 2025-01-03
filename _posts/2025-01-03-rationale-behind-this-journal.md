@@ -1,5 +1,10 @@
 ---
 title: "Rationale behind this journal"
+excerpt: "We all assume we know ourselves best, but if that’s true, why do we have fragmented identities in the minds of others? Why are there so many variations of my personality? Is it inconsistency on my part, or is that just how things are supposed to be? Am I perceived as the person I think I am and strive to be, or am I completely oblivious to how people see me?"
+tagline: "."
+header:
+  overlay_image: /assets/images/vassily-kandinsky-1908.jpg
+  caption: "Photo credit: [**Vassily Kandinsky 1908**]()"
 categories:
   - Journaling
 ---
