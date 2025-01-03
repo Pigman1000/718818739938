@@ -1,5 +1,5 @@
 ---
-itle: "Quantum Teleportation hi iem ani?"
+title: "Quantum Teleportation hi iem ani?"
 excerpt: "Quantum Teleportation chungchang ka hriet po tawite"
 tagline: " "
 header:
@@ -13,7 +13,7 @@ categories:
 
 
 {: .notice--warning}
-**Heads Up!!** Hi post hi kala ziek zo nawh a , draft ani leiin update that ala ni ding anih!
+**Heads Up!!** Hi post hi kala ziek zo nawh a , draft ani leiin post hi ka backdate a , update ala ni ding anih!
 
 ## Thuhmahruoi
 
