@@ -1,13 +1,16 @@
 ---
 title: "Barely Holding On"
 date: "2024-10-11"
+tagline: "Time flies like a banana, but gravity prefers apples."
+header:
+  overlay_image: /assets/images/Robert_Delaunay,_1913,_Premier_Disque,_134_cm,_52.7_inches,_Private_collection.jpg
+  caption: "Photo credit: [**Robert Delaunay 1913**](https://en.m.wikipedia.org/wiki/Robert_Delaunay)"
 categories: 
   - "reflections"
 tags: 
   - "self-reflections"
 ---
 
-![](https://dmuolhoi.wordpress.com/wp-content/uploads/2024/10/img-20241011-wa00163758567601252656474.jpg?w=1024)
 
 Recently, I’ve felt like I’m losing my sense of self, and I’ve slipped back into making excuses and procrastinating.
 

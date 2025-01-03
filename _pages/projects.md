@@ -6,6 +6,10 @@ collection: projects
 entries_layout: grid
 classes: wide
 ---
+
+{: .notice--warning}
+**Sorry!** This page is still under construction and some links may not work. We're working hard to get it up and running as soon as possible. Thank you for your patience and understanding!
+
 Welcome to the **projects** section, where I share the work I’m exploring and learning along the way. Each project is an opportunity for me to grow, experiment, and deepen my understanding. As I continue to learn and improve, I document my progress and hope you’ll join me on this journey. 
 
 Below are a list of my projects , past and present.
@@ -31,13 +35,13 @@ Here are some more links for easy access:
 
 ## Lil-Wiki
 
-You can explore the project here: [Lil-Wiki Website](#)
+You can explore the project here: [Lil Wiki Website](https://pigman1000.github.io/lil-wiki/)
 
 The Lil-Wiki project is a simple Wikipedia website designed to fetch wiki content through the Wikipedia API and present it in a digestible form. The goal was to create a straightforward, user-friendly platform that allows people to quickly access summarized excerpts of Wikipedia articles.
 
 Though the project is still up and functioning on GitHub Pages, it has taken a backseat with no immediate future plans. However, the website remains accessible, and you can still explore its content as it stands.
 
-If you’re interested, you can visit the site and check out the content being fetched and displayed. You can find the repository and more details on [GitHub].
+If you’re interested, you can visit the site and check out the content being fetched and displayed. You can find the repository and more details on [GitHub](https://github.com/Pigman1000/lil-wiki)
 
 ## Termux AI System
 
@@ -61,4 +65,4 @@ I’ve kept the website minimal and text-focused, aligning with my preference fo
 
 Feel free to explore the site and check out the different pages and links to my ongoing projects. As I continue working on them, I’ll be sure to update the site with new content, insights, and any major changes.
 
-You can check out the repository for the website [here](insert-repo-link), and you can find the changelog and any tutorials or instructions on how to fork the site in the future.
+You can check out the repository for the website [here](https://github.com/Pigman1000/9101-292-003) and you can find the changelog and any tutorials or instructions on how to fork the site in the future.
