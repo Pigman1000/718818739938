@@ -26,7 +26,7 @@ Chu po chu disclaimer ang hang ni phot sien Quantum Teleportation chungchang hi 
 
 ## Teleportation
 
-Teleportation ti hi ei trawng ahin a um ve naw lei hin awlsam deua bul hang tran a harsa met a chu el khelah "Quantum Teleportation" a "Teleportation" thumal an hmang hi , "Teleportation" ti thumal akhat a ei hmang hlak anthawk hin a dang nawk met lei hin awlsam taka hang hril hi thil thei an naw a, anachu teleportation hi iem ani ei ti chun , hmunkhat anthawk thawk-lekhat in bo thut in hmun dang deiah hung um nawk thut inla hihi teleportation anti chu ana.
+Teleportation ti hi ei trawng ahin a um ve naw lei hin awlsam deua bul hang tran a harsa met a chu el khelah "Quantum Teleportation" a "Teleportation" thumal an hmang hi , "Teleportation" ti thumal a khat a ei hmang hlak anthawk hin a dang nawk met lei hin awlsam taka hang hril hi thil thei an naw a, anachu teleportation hi iem  ani ei ti chun , hmunkhat anthawk thawk-lekhat in bo thut in hmun dang deiah hung um nawk thut inla hihi teleportation anti chu ana.
 
 Film le video games tamtak ahai khawm hi idea hi an hmang ta hlak a, tekhina in:
 
@@ -67,23 +67,30 @@ Electricity le electron , electromagnetic waves hai hrietthiemna neilo chun part
 Electricity hi eiin hnai pui tak a, Electricity hi iengtinam a um thei ? ti hai hi ei hrietthiem chun electromagnetic waves a data transmission ah iengtinam ei hmang a quantum teleportation le iem in paw na aneia iengtinam ei hlawpui thei ding ti hai hi hrietthiem antak ta nawh.
 Awlsam taka hril ding chu  electronic circuit ah electron hi negative (-) to positive (+) an lawn leia hi electricity ei nei thei hi ana , chanchin in thawn paw ding hin electromagnetic waves ei hmang nawk thung a hihi data transmission eita. 
 
-@@Note :@@ Digital Electronics hi hrietthiem i nuom chun ka post hlui laihin tiem thei in a um
 
-[Digital Electronics](#)
-[Binary Data le Frequency](#)
+**Note :** Digital Electronics hi hrietthiem i nuom chun ka post hlui laihin tiem thei in a um.<br>
+[Digital Electronics](#) ti ahin a awm tawk ka zieka.
+
+i lut inril met nuom chun a sunzawmna , 
+**[Binary Data le Frequency](#)** ti ahin iengtinam thlalak , milim le hla hai hi an khum thei ti hai ka tawk nuol a , link ahin tiem thei ning  atih 
 
 Electron ei thunun thei tak leihin Electromagnetic Waves hai hi ei nuom dan tak in ei thawn thei a , ei nuom dan ti chu data izir in , hi data hi milim mani hla mani , binary data in eiin let a , binary data hi electron manipulation in electromagnetic waves in ei inlet nawk a , hi electromagnetic waves hai hi , TV mani , Router Mani , in a lo dawng a , binary data in an let a , hi binary data hi software haiin ei hmu thei ei tiem thei dingin an let sawng nawk hlak  ana.
+
 Tuta data transmission a dingin electromagnetic waves ei hmang hai hi Quantum Teleportation a chun photon a eiin sawn (transition) na ana.
+
 Electron hin an lawn rang zie hi a material izir ana hi lei hin data transmission hai hi inrang hle sien khawm practical limit anei a , photon ruok chu medium a pawimaw ve naw leiin "instantaneous" ani hlaka .
-Nakieta "teleportation" ti chungchang ka hung hril met kha tuhin Quantum Teleportation hrietthiem ding chun hieng sub-atomic particles (electron,proton,neutron etc) hai hi " Entangled Partners an neia "  a umzie chu hmun khat (point a) a particle pakhat um dan izir in hmun dang deia particle (point b)  a um dan alo "copy" ve hlak anih. Anin awk tuo ti thei ang anih.
+
+Nakieta "teleportation" ti chungchang ka hung hril met kha tuhin Quantum Teleportation hrietthiem ding chun hieng sub-atomic particles (electron,proton,neutron etc) hai hi " Entangled Partners" an neia, a umzie chu hmun khat (point a) a particle pakhat um dan izir in hmun dang deia particle (point b)  a um dan alo "copy" ve hlak anih. Anin awk tuo ti thei ang anih.
+
 Point khat a um particle an vir chun Point danga um particle hi alo Pakhat invir le inruolin alo invir ve hlak anih , ankar ah inzawmna hriet thei ding in um naw sien khawm inzawmna tak an nei anih.
+
 Chun hieng particle hai kar hin chintawk anei naw a , ram dang danga um khawm ni hai sien an kar ieng angin hla sien khawm pakhat um dan angtakin pakhat kha a lo um ve hlak anih.
 Hienga anin awk tuo (entangled) lei hin hieng particle hai um dan hi hmang in chanchin inthawn paw tuo na (data transmission) dingin ei hmang thei ding anih.
 Trawng mawl chun Phone , Tv , Radio , ahai.
 
 ## Quantum Teleportation chanchin that
 
- to be continued
+ to be continued..
 
 
 
