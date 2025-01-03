@@ -13,7 +13,7 @@ categories:
 
 
 {: .notice--warning}
-**Heads Up!!** Hi post hi kala ziek zo nawh a , draft ani leiin post hi ka backdate a , update ala ni ding anih!
+**Heads Up!!** Hi post hi kala ziek zo nawh a link hai khawm hi dummy links an na , post hi draft ani leiin ka backdate a , update ala ni ding anih!
 
 ## Thuhmahruoi
 
@@ -62,7 +62,13 @@ Video games thren a anhmang hai chu:
 
 Tuta tekhina ka hung pek a chunga hai hi classical teleportation anta , hi tilo Quantum Mechanics ah Quantum Teleportation le hin an ang naw a.
 Anachu hipo khawm hin bul ei hang tran thei chuong naw a asanchu ei trawng ahin atom le particles ti hai , Energy , Mass le Concept le Theory , Hypothesis ti thumal hai khawm ei nei naw lei hin.
+
 ## Quantum Teleportation hi iem a tangkaina ?
+
+Quantum Teleportation hin tangkaina tamtak aneia , ei nitin nuna ei hmang phone le internet hai , computer le technology dang hai hi a awm tawk chu an na.
+
+Hieng thil hai hi Classical Physics le Quantum Mechanics ah thudik an hrietsuok leia ei nei an nih.
+
 Electricity le electron , electromagnetic waves hai hrietthiemna neilo chun particles hai hi iem ani ti khawm hi hril thiem a harsa a.
 Electricity hi eiin hnai pui tak a, Electricity hi iengtinam a um thei ? ti hai hi ei hrietthiem chun electromagnetic waves a data transmission ah iengtinam ei hmang a quantum teleportation le iem in paw na aneia iengtinam ei hlawpui thei ding ti hai hi hrietthiem antak ta nawh.
 Awlsam taka hril ding chu  electronic circuit ah electron hi negative (-) to positive (+) an lawn leia hi electricity ei nei thei hi ana , chanchin in thawn paw ding hin electromagnetic waves ei hmang nawk thung a hihi data transmission eita. 
@@ -92,6 +98,7 @@ Trawng mawl chun Phone , Tv , Radio , ahai.
 
  to be continued..
 
+---
 
 
 
