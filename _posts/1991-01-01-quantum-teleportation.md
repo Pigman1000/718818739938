@@ -17,11 +17,13 @@ categories:
 
 ## Thuhmahruoi
 
-Science tieng thi hi ngainatna rieu hi ka neia , thiem naw lang khom theories le hypothesis hai hi ka tiem ve zeu zeu hlaka , Quantum Mechanics hi ka hrietthiem theinaw thil ana anachu by-heart system a hrie hi kani deu tak lema , asanchu hi thil hi inchuklo ta ding lem chun akar ahla taluo a chu leiin ka thil hung ziek hai hi hriet inti deua hung ziek kan naw ti inmi lo hrietpui atrul hin ka hriet asanchu a awmtawk khawm hi ka hriet naw a , ka va hrut ve met ti lem anih.
+Science tieng thil hi ngainatna rieu hi ka neia , thiem naw lang khom theories le hypothesis hai hi ka tiem ve zeu zeu hlaka , Quantum Mechanics hi ka tiem ve hlaka chu ka hrietthiem theinaw thil ana.
+
+Ka hriet po tlawmte khawm hi by-heart system a hrie hi kani deu tak lema , asanchu hi thil hi inchuklo ta ding lem chun  akar ahla taluo a chu leiin ka thil hung ziek hai hi hriet inti deua  hung ziek kan naw ti inmi lo hrietpui atrul hin ka hriet asanchu a awmtawk khawm hi ka hriet naw hin kan hrieta , ka va hrut ve met ka hung ziek ve ani deu tak hi inmi lo hrietpui ve hi atrul in ka hriet. Hi thil ka hung hril khawm hi in ngaitlawm tehlem ang type kha niloin hriet khur ka neinawh kati hi kati tak tak anih ti kha inlo hriet ding.
 
 Chu po chu disclaimer ang hang ni phot sien. i  nuom chun main content a lo lut la , Science thil thu a ngaidan ka nei hi la hang hril vat lang.
 
-Science hi tamtak hin sakhuona le inkal ang hin an hril hlak a , kha ni sakhuona le science thu kan hril na ah , Science in mihriem hi zawng anthawk suok eini ati hi ei sakhuona le anmi thei naw hi lei hin science hi andik nawh ti ang hi ngaidan nei dam ei um hlaka , hi kawngkar vela thu hi science in thudik anga a ngirpui ni hin ei ngaia , hihi thil indiklo ana. Zawng anthawk ei suok ti Charles Darwin thil hril ana , Scientific community ah thudik anga  ngai lo um hai siem khawm thil theilo ding anga ringna nei tamtak an um   nawk tho a , Science in ati ti hi thudik ani naw anih.
+Science hi tamtak hin sakhuona le inkal ang hin an hril hlak a , kha ni sakhuona le science thu kan hril na ah , ***Science in mihriem hi zawng anthawk suok eini ati hi ei sakhuona le anmil thei naw a , hi lei hin science hi andik nawh*** ti ang hi ngaidan nei dam ei um hlaka , hi kawngkar vela thu hi science in thudik anga a ngirpui ni hin ei ngaia , hihi thil indiklo ana. Zawng anthawk ei suok ti hi Charles Darwin thil hril ana , Scientific community ah thudik anga  ngai lo um hai siem khawm thil theilo ding anga ringna nei tamtak an um   nawk tho a , Science in ati ti hi thudik ani naw anih.
 
 Science tienga mi thiem tamtak in Pathien um ringnaw hai sien khawm science in hi chungthu a hieng mi hai ngaidan an nei hi avan thlawp-pui naw anih ti hi ei hriet a trul a, annaw si a hienga science ei hnawl ding si chun zawng le sakeibaknei hai anga um na bik neilo a thingkung a inbat vel a annaw le puk sunga um chu ei chan tawk  anih.
 
@@ -99,7 +101,7 @@ Hi article hi a awlsam dan taka ziek kana , calculations an thaw hai , equations
 
 Chun hi thil hi educational material , academic paper etc ang niloin informational piece ang mei mei a hung post kanih.
 
-Hi thil thu hi a thu kim chang a i tiem nuom chun [Optica website](https://opg.optica.org/optica/fulltext.cfm?uri=optica-11-12-1700&id=565936) a kim chang taka research an thaw na tiem thei dingin a um!!
+Hi thil thu hi a thu kim chang a i tiem nuom chun latest news [Optica Website](https://opg.optica.org/optica/fulltext.cfm?uri=optica-11-12-1700&id=565936) a kim chang taka research an thaw na tiem thei dingin a um!!
 
 ---
 
