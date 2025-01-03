@@ -2,7 +2,7 @@
 title: "Rationale behind this journal"
 header:
   video:
-    id: -97xukmZfiGU
+    id: - 97xukmZfiGU
     provider: youtube
 categories:
   - Journaling
