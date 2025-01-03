@@ -1,6 +1,6 @@
 ---
 title: "Rationale behind this journal"
-tagline:  ""
+tagline:  "random"
 header:
   overlay_image: /assets/images/vassily-kandinsky-1908.jpg
   caption: "Photo credit: [**Vassily Kandinsky 1908**]()
