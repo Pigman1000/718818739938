@@ -5,7 +5,6 @@ permalink: /projects/
 collection: projects
 entries_layout: grid
 classes: wide
-toc: true
 ---
 # My Projects 
 
@@ -32,8 +31,6 @@ Here are some more links for easy access:
 - [Project Updates]
 - [Future Plans]
 
----
-
 ## Lil-Wiki
 
 You can explore the project here: [Lil-Wiki Website](#)
@@ -43,8 +40,6 @@ The Lil-Wiki project is a simple Wikipedia website designed to fetch wiki conten
 Though the project is still up and functioning on GitHub Pages, it has taken a backseat with no immediate future plans. However, the website remains accessible, and you can still explore its content as it stands.
 
 If you’re interested, you can visit the site and check out the content being fetched and displayed. You can find the repository and more details on [GitHub].
-
----
 
 ## Termux AI System
 
@@ -58,8 +53,6 @@ You can read more about my insights from this project here. However, please keep
 
 Thank you for your interest in this ongoing experiment!
 
----
-
 ## Website Project
 
 This website project started as an effort to bring together all my ongoing initiatives in one place. It serves as a platform to showcase my work, share updates, and provide easy access to my projects. It’s a work in progress, and while the site is up and functioning, I am continuously refining and improving it as I learn.
@@ -71,5 +64,3 @@ I’ve kept the website minimal and text-focused, aligning with my preference fo
 Feel free to explore the site and check out the different pages and links to my ongoing projects. As I continue working on them, I’ll be sure to update the site with new content, insights, and any major changes.
 
 You can check out the repository for the website [here](insert-repo-link), and you can find the changelog and any tutorials or instructions on how to fork the site in the future.
-
----
