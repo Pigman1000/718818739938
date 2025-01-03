@@ -328,6 +328,8 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-
+  bungpui:
+    output: true
+    permalink: /:collection/:path/
 
 
