@@ -17,9 +17,9 @@ categories:
 
 ## Thuhmahruoi
 
-Science tieng thil hi ngainatna rieu hi ka neia , thiem naw lang khom theories le hypothesis hai hi ka tiem ve zeu zeu hlaka , Quantum Mechanics hi ka tiem ve hlaka chu ka hrietthiem theinaw thil ana.
+Science tieng thil hi ngainatna rieu hi ka neia , thiem naw lang khom theories le hypothesis hai hi ka tiem ve zeu zeu hlaka , Quantum Mechanics hi ka tiem ve hlaka chu ka hrietthiem theinaw thil pakhat chu ana.
 
-Ka hriet po tlawmte khawm hi by-heart system a hrie hi kani deu tak lema , asanchu hi thil hi inchuklo ta ding lem chun  akar ahla taluo a chu leiin ka thil hung ziek hai hi hriet inti deua  hung ziek kan naw ti inmi lo hrietpui atrul hin ka hriet asanchu a awmtawk khawm hi ka hriet naw hin kan hrieta , ka va hrut ve met ka hung ziek ve ani deu tak hi inmi lo hrietpui ve hi atrul in ka hriet. Hi thil ka hung hril khawm hi in ngaitlawm tehlem ang type kha niloin hriet khur ka neinawh kati hi kati tak tak anih ti kha inlo hriet ding.
+Ka hriet po tlawmte ka hung ziek khawm hi by-heart system a hriet po ka hung ziek thre ve  hi kani deu  tak lema , asanchu hi thil hi inchuklo ta ding lem chun  akar ahla taluo a chu leiin ka thil hung   ziek hai hi hriet inti deua  hung   ziek kan naw ti inmi lo hrietpui atrul hin ka hriet asanchu a awmtawk khawm hi ka hriet naw hin kan hrieta , ka va hrut ve met ka hung   ziek ve ani deu tak hi inmi lo hrietpui ve hi atrul in ka hriet. Hi thil ka hung hril khawm hi in ngaitlawm tehlem ang type kha niloin hriet khur ka neinawh kati hi kati tak tak anih ti kha inlo hriet ding.
 
 Chu po chu disclaimer ang hang ni phot sien. i  nuom chun main content a lo lut la , Science thil thu a ngaidan ka nei hi la hang hril vat lang.
 
@@ -38,12 +38,9 @@ Teleportation concept hi i hrietthiem chun a next section I skip theia asanchu h
 
 Teleportation ti hi ei trawng ahin a um ve naw lei hin awlsam deua bul hang tran khom a harsa met a chu el khelah "Quantum Teleportation" a "Teleportation" thumal an hmang le "Teleportation" ti thumal a khat a ei hmang le hin an ang naw a . Teleportation chu hmunkhat anthawk thawk-lekhat in bo thut in hmun dang deiah hung um nawk thut inla hihi teleportation anti chu ana.
 
-Film le video games tamtak ahai khawm hi idea (concept ) hi an hmang ta hlak a, tekhina in:  
-[Star Trek](#), [Jumper](#), [The Prestige](#), [The Matrix](#)  
+Film le video games tamtak ahai khawm hi idea (concept ) hi an hmang ta hlak a, tekhina in **Star Trek**, **Jumper** , **Matrix** , **Looper** , ti hai.
 
-Video games thren a anhmang hai chu:  
-[Portal](#), [Portal 2](#), [Dishonored](#), [Minecraft](#)
-ti hai hi tekhina tlawmte an na.
+Video games thren a anhmang hai chu **Portal Series**, **Minecraft** , **Dishonoured** ti ahai khan an hmang a , hieng hai hi tekhina tlawmte an na.
 
 Tuta tekhina ka hung pek a chunga hai hi classical teleportation anta , hi tilo Quantum Mechanics ah Quantum Teleportation le hin an ang naw a.
 Anachu hipo khawm hin bul ei hang tran thei chuong naw a asanchu ei trawng ahin atom le particles ti hai , Energy , Mass le Concept le Theory , Hypothesis ti thumal hai khawm ei nei naw lei hin.
