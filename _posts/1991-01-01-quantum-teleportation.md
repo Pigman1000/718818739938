@@ -54,7 +54,7 @@ Quantum Teleportation a teleportation anti hi data transmission anrang taluo lei
 
 Hang hril zawm pei inla.
 
-## Quantum Teleportation hi iem a tangkaina ?
+## Quantum Teleportation Tangkaina 
 
 Quantum Teleportation hin tangkaina tamtak aneia , ei nitin nuna ei hmang phone le internet hai , computer le technology dang hai hi a awm tawk chu an na.
 Banking le Security, Computing, Processing ti ahai khawm hin tangkaina tamtak aneia areng aram chun ka hriet ve chuong nawh anih.
@@ -107,7 +107,7 @@ i lut inril met nuom chun a sunzawmna ,
 
 ---
 
-## Quantum Teleportation tieng hang hril zawm pei inla
+## Quantum Teleportation 
 
 Electron ei thunun thei tak leihin Electromagnetic Waves hai hi ei nuom dan tak in ei thawn thei a , ei nuom dan ti chu data izir in , hi data hi milim mani hla mani , binary data in eiin let a , binary data hi electron manipulation in electromagnetic waves in ei inlet nawk a , hi electromagnetic waves hai hi , TV mani , Router Mani , in a lo dawng a , binary data in an let a , hi binary data hi software haiin ei hmu thei ei tiem thei dingin an let sawng nawk hlak ana.
 
@@ -128,7 +128,7 @@ Chun hieng particle hai kar hin chintawk anei naw a , ram dang danga um khawm ni
 Hienga anin awk tuo (entangled) lei hin hieng particle hai um dan hi hmang in chanchin inthawn paw tuo na (data transmission) dingin ei hmang thei anih.
 Trawng mawl chun Phone , Tv , Radio , Internal ti ahai asanchu nakieta ka post hlui **Binary data le Frequency** Chung chang kalo zieka ka hril ta ang khan digital data iengkim hi binary (1,0) an ni lei hin.
 
-## Atawpna dingin
+## Atawpna
 
 Hi article hi a awlsam dan taka ziek kana , Abul taka ka hung hril ang khan calculations an thaw hai , equations etc hai hi ka hriet ve naw a ka paw phak naw thil ani leiin chieng bek loa hung    hril kha ka nuom naw leia ka hrietthiem dan taka (conceptual explanation) hril kanih inmi lo hrietpui a trul hin ka hrieta ka hung hril nawn nisien.
 
