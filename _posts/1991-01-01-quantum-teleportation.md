@@ -128,6 +128,8 @@ Chun hieng particle hai kar hin chintawk anei naw a , ram dang danga um khawm ni
 Hienga anin awk tuo (entangled) lei hin hieng particle hai um dan (state ) hi hmang in chanchin inthawn paw tuo na (data transmission) dingin ei hmang thei anih.
 Trawng mawl chun Phone , Tv , Radio , Internal ti ahai asanchu nakieta ka post hlui **Binary data le Frequency** Chung chang kalo zieka ka hril ta ang khan digital data iengkim hi binary (1,0) an ni lei hin.
 
+Sub-atomic particles popo hin "entangled partner" an nei ngai naw a ancachu Quantum Teleportation hril na ding hin chu kawppui nei hai cho ei hmang thei lei hin a awlsawm zawngin ka hung hril ana , hilai khawm hi ei hrietthiem a trul hin ka hrieta ka hung belsa ni rawse.
+
 ## Atawpna
 
 Hi article hi a awlsam dan taka ziek kana , Abul taka ka hung hril ang khan calculations an thaw hai , equations etc hai hi ka hriet ve naw a ka paw phak naw thil ani leiin chieng bek loa hung    hril kha ka nuom naw leia ka hrietthiem dan taka (conceptual explanation) hril kanih inmi lo hrietpui a trul hin ka hrieta ka hung hril nawn nisien.
