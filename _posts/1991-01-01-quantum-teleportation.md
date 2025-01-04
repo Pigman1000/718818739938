@@ -17,11 +17,15 @@ categories:
 
 ## Thuhmahruoi
 
-Science tieng thil hi ngainatna rieu hi ka neia , thiem naw lang khom theories le hypothesis hai hi ka tiem ve zeu zeu hlaka , Quantum Mechanics hi ka tiem ve hlaka chu ka hrietthiem theinaw thil pakhat chu ana.
+Science tieng thil hi ngainatna rieu hi ka neia , thiem naw lang khom theories le hypothesis hai hi ka tiem ve zeu zeu hlaka , Quantum Mechanics hi ka tiem ve hlaka chu a concept bak hi ka pel thei naw a.
 
-Ka hriet po tlawmte ka hung ziek khawm hi by-heart system a hriet po ka hung ziek thre ve  hi kani deu  tak lema , asanchu hi thil hi inchuklo ta ding lem chun  akar ahla taluo a chu leiin ka thil hung   ziek hai hi hriet inti deua  hung   ziek kan naw ti inmi lo hrietpui atrul hin ka hriet asanchu a awmtawk khawm hi ka hriet naw hin kan hrieta , ka va hrut ve met ka hung   ziek ve ani deu tak hi inmi lo hrietpui ve hi atrul in ka hriet. Hi thil ka hung hril khawm hi in ngaitlawm tehlem ang type kha niloin hriet khur ka neinawh kati hi kati tak tak anih ti kha inlo hriet ding.
+Hi article khawm hi conceptual explanation ani ding ana , math le equation ti hai thrang lova awlsam taka ka hung    hril na , math le equation ti hai kha chu anchuk hai , BSc , MSc le Physics a PhD nei hai hril ding ang deu ni hin ka hrieta , Inchuk lo chun conceptual understanding bak hi pel antak deu hin ka hrieta chu lei chun a math awzawng hin chu ka paw phak der naw anih ti thu ka hung puong malam ni bawk sien.
 
-Chu po chu disclaimer ang hang ni phot sien. i  nuom chun main content a lo lut la , Science thil thu a ngaidan ka nei hi la hang hril vat lang.
+Concept hrilfie na mei mei ani ang bawkin hrietthiem a harsa bek naw a , College level chena inchuk hai chun hi thil hi arts inchuk khawma ei hriet ka ringa, chu lei chun math le equation ti hai i en nuom ani chun a tawp takah link a en thei ning  atih.
+
+Chu po chu disclaimer ang deu hang ni phot sien i  nuom  chun main content a lo lut la , Science thil thu a ngaidan ka nei hi la hang hril vat lang.
+
+### Personal Note
 
 Science hi tamtak hin sakhuona le inkal ang hin an hril hlak a , kha ni sakhuona le science thu kan hril na ah , ***Science in mihriem hi zawng anthawk suok eini ati hi ei sakhuona le anmil thei naw a , hi lei hin science hi andik nawh*** ti ang hi ngaidan nei dam ei um hlaka , hi kawngkar vela thu hi science in thudik anga a ngirpui ni hin ei ngaia , hihi thil indiklo ana. Zawng anthawk ei suok ti hi Charles Darwin thil hril ana , Scientific community ah thudik anga  ngai lo um hai siem khawm thil theilo ding anga ringna nei tamtak an um   nawk tho a , Science in ati ti hi thudik ani naw anih.
 
@@ -30,20 +34,20 @@ Science tienga mi thiem tamtak in Pathien um ringnaw hai sien khawm science in h
 Khawvel ei hriet chienga missionary hung hai leia Pathien ei hung hrietchieng anthawk ei ringna ei hung thlek ang khan khawvel hrietna hi hnawt zing inla chuong chun science hi ringna namnghet tu tha tak ani thei anih.
 
 Mi thiem khom kan naw achu ngaidan hril theilo ding ni hin kan hrietnaw a. Ka ngaidan hung hril lang.
+
 Ka ngaidan a chun khawvel a thuruk hienga mihriem in ei sui suok tamtak ahai hin a sie zawm thiem ta ding chun Pathien thu tamtak a um hin ka hrieta , khawvel hi Pathien siem ani si leiin , iengkim ahin akut hnung azamsan anih. Chu po chun Thuhmahruoi hi tawp sien topic tak ah lut inla Quantum Teleportation hi iem ani, ka hrietthiem dan tak in.
 
 ## Teleportation
 
 Teleportation concept hi i hrietthiem chun a next section I skip theia asanchu hi thil hi concept ei hriet seng chu ka ringa anachu hang hril bel lo ding hin Teleportation ti le Quantum Teleportation ti hi terminology an anga anachu core concept an angnaw lei hin hril sa atrul hin ka hrieta.
 
-Teleportation ti hi ei trawng ahin a um ve naw lei hin awlsam deua bul hang tran khom a harsa met a chu el khelah "Quantum Teleportation" a "Teleportation" thumal an hmang le "Teleportation" ti thumal a khat a ei hmang le hin an ang naw a . Teleportation chu hmunkhat anthawk thawk-lekhat in bo thut in hmun dang deiah hung um nawk thut inla hihi teleportation anti chu ana.
+Teleportation ti hi ei trawng ahin a um ve naw lei hin awlsam deua bul hang tran khom a harsa met a chu el khelah "Quantum Teleportation" a "Teleportation" thumal an hmang le "Teleportation" ti thumal a khat a ei hmang le hin an ang naw a . Teleportation chu hmun khat anthawk thawk-lekhat in bo thut in hmun dang deiah hung um nawk thut inla hihi teleportation anti chu basic concept ana hi thil hi classical physics a chun tu tak a ding chun science fiction le speculative physics , hypothetical anga ngai ana. Amiruokchu Wormhole (Einstein -Rosen Bridge) , Quantum Field Theory (QFT) ti ahai hin Theoretical support anei anih.
 
 Film le video games tamtak ahai khawm hi idea (concept ) hi an hmang ta hlak a, tekhina in **Star Trek**, **Jumper** , **Matrix** , **Looper** , ti hai.
 
 Video games thren a anhmang hai chu **Portal Series**, **Minecraft** , **Dishonoured** ti ahai khan an hmang a , hieng hai hi tekhina tlawmte an na.
 
-Tuta tekhina ka hung pek a chunga hai hi classical teleportation anta , hi tilo Quantum Mechanics ah Quantum Teleportation le hin an ang naw a.
-Anachu hipo khawm hin bul ei hang tran thei chuong naw a asanchu ei trawng ahin atom le particles ti hai , Energy , Mass le Concept le Theory , Hypothesis ti thumal hai khawm ei nei naw lei hin.
+Tuta tekhina ka hung pek a chunga hai hi classical teleportation anta Classical Physics a hypothetical pakhat ve ana, hi tilo Quantum Mechanics ah Quantum Teleportation le hin an ang naw a.
 
 Quantum Teleportation a teleportation anti hi data transmission anrang taluo leia hi teleportation ti thumal hi an hmang ana , amiruokchu data an thawn hi atak a thawn an naw a , particles hai um dan—spin le polarization ti hai — an en a information anin pek sawng hi transmission ah rang leia teleportation ti thumal an hmang anih.
 
@@ -56,17 +60,18 @@ Banking le Security, Computing, Processing ti ahai khawm hin tangkaina tamtak an
 
 Hieng thil hai hi Classical Physics le Quantum Mechanics ah thudik an hrietsuok leia ei nei ana.
 
-Anachu kati ang khan hi topic hi thil inril tak ani lei hin hrietthiem a harsa a , chu el khelah ei trawng ahin thumal kimnaw English a thumal ei hmang a, ai eiin aw tir khawm hi atama.
+Quantum Technology hi general takin lo develop ta inla infrastructure puitling tak lo nei ta inla chu , Quantum Internet hai dam lo nei ta inla , Quantum Enabled Processors ti hai lo nei inla ei khawvel hi ieng ang am ani ding ti chu ngaituo inlen na tham ani hin ka hriet.
 
-Anachu a awlsam zawng takkin hung hril lang,
-Electricity hi eiin hnai pui tak a, ei nitin nuna hai khawm electric bo chun harsa eiti a , anachu electric hi iengtinam a um thei ? Electron chu iem ani? Electromagnetic waves hai hi iem an ni ti hai khawm hi ei hnam nunphung (culture) ahin ei neive naw lei hin hril thiem a harsa a , chu el khela ei hnam hin ei thei angin khawvel ta ding hin a hlawkpui ding kutsuok , hrietsuok ei neive thei naw pha anih.
+Anachu kati ang khan hi topic hi thil inril tak ani lei hin hrietthiem a harsa a , chu el khelah ei trawng ahin thumal kimnaw English a thumal ei hmang a, ai eiin aw tir khawm hi atam lei hin hang hril kim hi aharsa deu hlak a.
+
+Anachu a awlsam zawng takkin hung hril zawm pei lang,electricity hi eiin hnai pui tak a, ei nitin nuna hai khawm electric bo chun harsa eiti a , anachu electric hi iengtinam a um thei ? Electron chu iem ani? Electromagnetic waves hai hi iem an ni ti hai khawm hi ei hnam nunphung (culture) ahin ei neive naw lei hin hril thiem a harsa a , chu el khela ei hnam hin ei thei angin khawvel ta ding hin a hlawkpui ding kutsuok , hrietsuok ei neive thei naw pha anih.
 
 Electricity, Electron , Electromagnetic Waves ti hai hi ei hrietthiem chun electromagnetic waves a data transmission ah iengtinam ei hmang a quantum teleportation le iem in paw na aneia iengtinam ei hlawpui thei ding ti hai hi hrietthiem antak ta naw hin ka hrieta.
 
-Awlsam taka hril ding chu  electronic circuit ah electron hi negative (-) to positive (+) an lawn leia hi electricity ei nei thei hi ana , chanchin in thawn paw ding hin electromagnetic waves ei hmang nawk thung a hihi data transmission eita. 
+Awlsam taka hril ding chu  electronic circuit ah electron hi negative (-) to positive (+) an lawn leia hi electricity ei nei thei hi ana , chanchin in thawn paw ding hin electromagnetic waves ei hmang nawk thung a hihi data transmission eita hihi physics anthawk practical implementation, electricity le digital electronics a alut na ana.
 
 Digital Electronics hi hrietthiem i nuom chun ka post hlui laihin tiem thei in a um.<br>
-[Digital Electronics](#) ti ahin a awm tawk ka zieka.
+[Ri le Digital Electronics](#) ti ahin a awm tawk ka zieka.
 
 i lut inril met nuom chun a sunzawmna , 
 **[Binary Data le Frequency](#)** ti ahin iengtinam thlalak , milim le hla hai hi an khum thei ti hai ka tawk nuol a , link ahin tiem thei ning  atih.
@@ -94,9 +99,9 @@ Trawng mawl chun Phone , Tv , Radio , Internal ti ahai asanchu nakieta ka post h
 
 ## Atawpna dingin
 
-Hi article hi a awlsam dan taka ziek kana , calculations an thaw hai , equations etc hai hi ka hriet ve naw a ka paw phak naw thil ani leiin chieng bek loa hung hril kha ka nuom naw leia ka hrietthiem dan taka hung hril kanih inmi lo hrietpui a trul hin ka hrieta.
+Hi article hi a awlsam dan taka ziek kana , Abul taka ka hung hril ang khan calculations an thaw hai , equations etc hai hi ka hriet ve naw a ka paw phak naw thil ani leiin chieng bek loa hung    hril kha ka nuom naw leia ka hrietthiem dan taka (conceptual explanation) hril kanih inmi lo hrietpui a trul hin ka hrieta ka hung hril nawn nisien.
 
-Chun hi thil hi educational material , academic paper etc ang niloin informational piece ang mei mei a hung post kanih.
+Chun hi thil hi educational material , academic paper etc ang niloin informational piece ang mei mei a hung post kanih ti khawm ka hung hril sa hngal a.
 
 Hi thil thu hi a thu kim chang a i tiem nuom chun latest news [Optica Website](https://opg.optica.org/optica/fulltext.cfm?uri=optica-11-12-1700&id=565936) a kim chang taka research an thaw na tiem thei dingin a um!!
 
