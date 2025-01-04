@@ -28,7 +28,7 @@ Chu po chu disclaimer ang deu hang ni phot sien i  nuom  chun main content a lo 
 
 ### Personal Note
 
-Science hi tamtak hin sakhuona le inkal ang hin an hril hlak a , kha ni sakhuona le science thu kan hril na ah , ***Science in mihriem hi zawng anthawk suok eini ati hi ei sakhuona le anmil thei naw a , hi lei hin science hi andik nawh*** ti ang hi ngaidan nei dam ei um hlaka , hi kawngkar vela thu hi science in thudik anga a ngirpui ni hin ei ngaia , hihi thil indiklo ana. Zawng anthawk ei suok ti hi Charles Darwin thil hril ana , Scientific community ah thudik anga  ngai lo um hai siem khawm thil theilo ding anga ringna nei tamtak an um   nawk tho a , Science in ati ti hi thudik ani naw anih.
+Science hi tamtak hin sakhuona le inkal ang hin an hril hlak a , kha ni sakhuona le science thu kan hril na ah , ***"Science in mihriem hi zawng anthawk suok eini ati hi ei sakhuona le anmil thei naw a , hi lei hin science hi andik nawh"*** ti ang hi ngaidan nei dam ei um hlaka , hi kawngkar vela thu hi science in thudik anga a ngirpui ni hin ei ngaia , hihi thil indiklo ana. Zawng anthawk ei suok ti hi Charles Darwin thil hril ana , Scientific community ah thudik anga  ngai lo um hai siem khawm thil theilo ding anga ringna nei tamtak an um   nawk tho a , Science in ati ti hi thudik ani naw anih.
 
 Science tienga mi thiem tamtak in Pathien um ringnaw hai sien khawm science in hi chungthu a hieng mi hai ngaidan an nei hi avan thlawp-pui naw anih ti hi ei hriet a trul a, annaw si a hienga science ei hnawl ding si chun zawng le sakeibaknei hai anga um na bik neilo a thingkung a inbat vel a annaw le puk sunga um chu ei chan tawk  anih.
 
@@ -122,10 +122,10 @@ Nakieta "teleportation" ti chungchang ka hung hril met kha tuhin Quantum Telepor
 
 Point khat a um particle an vir chun point danga um particle hi , pakhat invir le inruolin alo invir ve hlak anih , ankar ah inzawmna hriet thei le inkhi thei ding in um naw sien khawm inzawmna tak an nei anih.
 
-**note** invir kati hi spin le polarization hril awlsam na a hmang kanih.
+**Note :** invir kati hi spin le polarization hril awlsam na a hmang kanih.
 
 Chun hieng particle hai kar hin chintawk anei naw a , ram dang danga um khawm ni hai sien an kar ieng angin hla sien khawm pakhat um dan angtakin pakhat kha a lo um ve hlak anih.
-Hienga anin awk tuo (entangled) lei hin hieng particle hai um dan hi hmang in chanchin inthawn paw tuo na (data transmission) dingin ei hmang thei anih.
+Hienga anin awk tuo (entangled) lei hin hieng particle hai um dan (state ) hi hmang in chanchin inthawn paw tuo na (data transmission) dingin ei hmang thei anih.
 Trawng mawl chun Phone , Tv , Radio , Internal ti ahai asanchu nakieta ka post hlui **Binary data le Frequency** Chung chang kalo zieka ka hril ta ang khan digital data iengkim hi binary (1,0) an ni lei hin.
 
 ## Atawpna
