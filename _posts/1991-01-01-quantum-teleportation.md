@@ -9,6 +9,7 @@ categories:
   - Technology
   - Hmar
   - Science
+toc: true
 ---
 
 
@@ -64,25 +65,55 @@ Quantum Technology hi general takin lo develop ta inla infrastructure puitling t
 
 Anachu kati ang khan hi topic hi thil inril tak ani lei hin hrietthiem a harsa a , chu el khelah ei trawng ahin thumal kimnaw English a thumal ei hmang a, ai eiin aw tir khawm hi atam lei hin hang hril kim hi aharsa deu hlak a.
 
-Anachu a awlsam zawng takkin hung hril zawm pei lang,electricity hi eiin hnai pui tak a, ei nitin nuna hai khawm electric bo chun harsa eiti a , anachu electric hi iengtinam a um thei ? Electron chu iem ani? Electromagnetic waves hai hi iem an ni ti hai khawm hi ei hnam nunphung (culture) ahin ei neive naw lei hin hril thiem a harsa a , chu el khela ei hnam hin ei thei angin khawvel ta ding hin a hlawkpui ding kutsuok , hrietsuok ei neive thei naw pha anih.
+## Electron , Electricity le Electromagnetic Waves
 
-Electricity, Electron , Electromagnetic Waves ti hai hi ei hrietthiem chun electromagnetic waves a data transmission ah iengtinam ei hmang a quantum teleportation le iem in paw na aneia iengtinam ei hlawpui thei ding ti hai hi hrietthiem antak ta naw hin ka hrieta.
+Electricity hi eiin hnai pui tak a, ei nitin nuna hai khawm electric bo chun harsa eiti a , anachu electric hi iengtinam a um thei ? Electron chu iem ani? Electromagnetic waves hai hi iem an ni ti hai khawm hi ei hnam nunphung (culture) ahin ei neive naw lei  hin hril thiem a harsa a , chu el khela ei hnam hin ei thei angin khawvel ta ding hin a hlawkpui ding kutsuok , hrietsuok ei neive thei naw pha anih.
+
+Electricity, Electron , Electromagnetic Waves ti hai hi ei hrietthiem chun electromagnetic waves a data transmission hi iengtinam ei thaw hlak a , iem quantum teleportation leh in paw na aneia iengtinam ei hlawpui thei ding ti hai hi hrietthiem antak ta naw hin ka hrieta.
 
 Awlsam taka hril ding chu  electronic circuit ah electron hi negative (-) to positive (+) an lawn leia hi electricity ei nei thei hi ana , chanchin in thawn paw ding hin electromagnetic waves ei hmang nawk thung a hihi data transmission eita hihi physics anthawk practical implementation, electricity le digital electronics a alut na ana.
 
-Digital Electronics hi hrietthiem i nuom chun ka post hlui laihin tiem thei in a um.<br>
-[Ri le Digital Electronics](#) ti ahin a awm tawk ka zieka.
+Hi thil ka hung hril hi atom , electron , proton , neutron photon etc hai hi iem an ni ti hai ei hriet ti ringna ka nei leia ka hung hril tlang ana asanchu hieng basic hai chen cover chun a sei taluo ding ani leiin.
+
+Ei hriet ding awlsam tak chu electron leia electricity ei nei hi electricity hmangin electron ei manipulate a electromagnetic waves ei siema data transmission a dingin hi electromagnetic waves hai hi ei hmang ti hi anih.
+
+
+### Digital Logic le Binary Data
+
+Iengkim phone le computer sunga um hi binary representation aneia , hihi binary data ana binary data chu 1 le 0 an na .
+
+Milim , Hla , Video , Software le Video Games , iengkim hi 1 le 0 chau an na.
+Hi 1 le 0 hi electric signal on le off , true le false ,  a anin let sawng ana.
+
+Electric current hi binary annaw achu digital logic achun binary eiin ni tira Computer, Phone , Software, Programming Language  le Artificial Intelligence etc hai ei nei thei anih.
+
+A fe dan chu physics ah electron anthawk  electricity, electricity anthawk electromagnetic waves, chu anthawk digital logic , digital electronics le digital logic hi ankhat ana chun chu anthawk machine code , machine code anthawk assembly  language chun programming language le coding language le markup language dang hai , chu anthawk software (encryption, decryption) chu anthawk milim le hla hai le Artificial Intelligence hai ei nei thei anih.
+
+Hihi khawm hi  oversimplification ana , akar ah thil tamtak a uma anachu apawinaw chu science a hrietna leia hieng thil tamtak ei nei hai hi mi pakhat hriet seng an naw a kum za tel sunga hieng thil hai bawzui tu an um leia hma ei sawn thei ana , Pathien thil siem hi po cho khawm hi hrietthiem harsa eita ei hriet seng naw chun Pathen ei hriet dan hai dam hi a famkim am ti inngaituona neilo a andik ni dinga ei ring tawp   hai dam hi ngaituo tlak ani hin ka hrieta.
+
+Computer thil ahai , programming ahai khom hin "final executer " , iengkim suk puitling tu hi electric hi ana , comma um naw na dinga comma a um khawma program an dik theinaw a , iengkim hi andik vawng a trula andiknaw na pakhat khom a um chun a rengin andik naw tawp thei hi a sukpuitlingtu hin ei ti ang chie hin a hung suk puitling hlak hi thil mak ani hin ka hrieta mak kati tawp theinaw thil pakhat ve anih.
+
+Hihi ka hung hril na san chu data transmission a electromagnetic waves ei hmang dan ka hung hril na ana , step-by-step a thil fe dan hi hrietthiem chun quantum teleportation ah iengtinam particles hai um dan ei hmang thei ti chu hipo a khawm hin hril lo khawma ei hrietthiem ta ka ringa.
+
+Digital Electronics le electricity hi hrietthiem zuol i nuom chun ka post hlui laihin tiem  thei in a uma.<br>
+[Ri le Digital Electronics](https://example.com) ti ahin a awm tawk ka zieka.
 
 i lut inril met nuom chun a sunzawmna , 
-**[Binary Data le Frequency](#)** ti ahin iengtinam thlalak , milim le hla hai hi an khum thei ti hai ka tawk nuol a , link ahin tiem thei ning  atih.
+**[Binary Data le Frequency](https://example.com)** ti ahin iengtinam thlalak , milim le hla hai hi an khum thei ti hai ka tawk nuol a , link ahin tiem thei ning  atih.
 
-**Note** Article hi kala ziek zo naw leiin link hai hi zuizawm thei alan nawh.
+---
+
+**Note :** Website hi WordPress anthawk ka migrate a, ka post hlui hai format that an trul leiin link hai hi zuizawm thei alan naw a dummy link an la nih.
+
+---
+
+## Quantum Teleportation tieng hang hril zawm pei inla
 
 Electron ei thunun thei tak leihin Electromagnetic Waves hai hi ei nuom dan tak in ei thawn thei a , ei nuom dan ti chu data izir in , hi data hi milim mani hla mani , binary data in eiin let a , binary data hi electron manipulation in electromagnetic waves in ei inlet nawk a , hi electromagnetic waves hai hi , TV mani , Router Mani , in a lo dawng a , binary data in an let a , hi binary data hi software haiin ei hmu thei ei tiem thei dingin an let sawng nawk hlak ana.
 
-Tuta data transmission a dingin electromagnetic waves ei hmang hai hi Quantum Teleportation a chun photon a eiin sawn (transition) na ana , anachu khawm chu oversimplification anih.
+Tuta data transmission a dingin electromagnetic waves ei hmang hai hi Quantum Teleportation a chun photon a eiin sawn (transition) na ana , anachu khawm chu oversimplification ala ni nawk a.
 
-Electron hin an lawn rang zie (speed of travel) hi a material izir ana hi lei hin data transmission hai hi inrang hle sien khawm practical limit anei a , photon ruok chu medium a pawimaw ve naw leiin "instantaneous" (a ruolin) ani hlaka.
+Electron hin an lawn rang zie (speed of travel) hi a material izir ana hi lei hin data transmission hai hi inrang hle sien khawm practical limit anei a , photon ruok chu medium a pawimaw ve naw leiin "instantaneous" (a ruolin) transmission hi ani hlaka.
 
 Electron in lawn rang zie hi conditional lo nisien khawm Electromagnetic Waves hai hi ei bansan tawp thei naw a asanchu data hi decryption le encryption a dingin electromagnetic waves hai hi ei la pawimaw zing anih.
 Tekhina in Digital Logic , PCB a transistor, resistors , capacitors ti hai hi electron in material izir a travel speed a nei leia ei hmang thei an na anachu  photon chun medium a pawimaw tak  naw lei hin hi a travel speed hi ei manipulate thei ta naw a , hi lei hin photon hi nikhat chu quantum teleportation a data transmission loa ei la hmang dan ding chu mi thiem haiin an bawzui (research) zinga amiruokchu tu tak a ding chun data transmission bak a chun digital logic ahai chun eila hmang theinaw anih.
