@@ -9,7 +9,7 @@ categories:
   - Technology
   - Hmar
   - Science
-toc: true
+toc: false
 ---
 
 
